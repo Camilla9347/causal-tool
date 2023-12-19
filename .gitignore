@@ -4,3 +4,5 @@
 .Ruserdata
 fantom_mat.csv
 vespucci_mat.csv
+.DS_Store
+causal-data-processing-tool.Rproj
