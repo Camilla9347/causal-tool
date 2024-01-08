@@ -49,12 +49,13 @@ set_pc_input <- function(input_matrix, target_gene, exp_list, cut, organism){
 
 apply_pc <- function (pc_input_matrix){
   
-  if(require(pcalg)){
-    n <- nrow(pc_input_matrix)
-    v <- colnames(pc_input_matrix)
-    
-    start_time <- Sys.time()
-    cat("\npc() started at", format(start_time, "%a %b %d %X %Y"))
+  n <- nrow(pc_input_matrix)
+  v <- colnames(pc_input_matrix)
+  
+  start_time <- Sys.time()
+  cat("\npc() started at", format(start_time, "%a %b %d %X %Y"))
+  
+  if(args[4]== "mrf"){
     
     pc_fit <-pc(
       suffStat = list(C = cor(pc_input_matrix), n = n),
@@ -62,20 +63,40 @@ apply_pc <- function (pc_input_matrix){
       alpha = 0.05,
       labels = v,
       u2pd = "relaxed",
-      skel.method = "stable",
+      skel.method = "stable.fast",
+      conservative = FALSE,
+      maj.rule = TRUE,
+      solve.confl = TRUE,
+      verbose = FALSE
+      
+    )
+    
+  } else if(args[4]== "cf") {
+    
+    pc_fit <-pc(
+      suffStat = list(C = cor(pc_input_matrix), n = n),
+      indepTest = gaussCItest, 
+      alpha = 0.05,
+      labels = v,
+      u2pd = "relaxed",
+      skel.method = "stable.fast",
       conservative = TRUE,
       maj.rule = FALSE,
       solve.confl = TRUE,
       verbose = FALSE
+      
     )
-    
-    end_time <- Sys.time()
-    cat("\npc() ended at", format(end_time, "%a %b %d %X %Y"))
-    cat("\npc() took", round(end_time -  start_time, 2))
-    cat("\n")
-    return(pc_fit)
   }
+  
+  end_time <- Sys.time()
+  cat("\npc() ended at", format(end_time, "%a %b %d %X %Y"))
+  cat("\npc() took", round(end_time -  start_time, 2))
+  cat("\n")
+  
+  return(pc_fit)
+    
 }
+
 
 edgeListFromPCamat <- function (adj_mat){
   

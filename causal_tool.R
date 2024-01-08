@@ -1,15 +1,16 @@
 require(readr)
+require(pcalg)
 source("functions.R")
 options(max.print = .Machine$integer.max)
 #options(warn=-1)
 path <- getwd()
 args = commandArgs(trailingOnly=TRUE)
 
-if (length(args)==0 | length(args)==1 | length(args)==2) {
-  cat("\nAt least 3 argument must be supplied: \nexplist.csv organism_type n")
+if (length(args)==0 | length(args)==1 | length(args)==2 | length(args)==3) {
+  cat("\nAt least 4 arguments must be supplied: \nexplist.csv organism_type n pcVer")
   cat("\n")
   stop("", call.=FALSE)
-} else if (length(args)==3) {
+} else if (length(args)==4 & (args[4] == "mrf" | args[4] == "cf")) {
   expansion_list_dir <- c(paste(path, paste("/", args[1], sep = "", collapse = NULL) , sep = "", collapse = NULL))
 }
 
