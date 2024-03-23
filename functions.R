@@ -301,9 +301,9 @@ get_pearson_corr <- function (cpdag, pc_input_matrix){
     y <- gsub(".br.", "<br>", y )
     
     pearson_corr <- cor(pc_input_matrix[,x],pc_input_matrix[,y])
-    cpdag[i, "cor"] <- pearson_corr
+    cpdag[i, "zero_order_r"] <- pearson_corr
   }
-  cpdag[cpdag$cor > 0, "cor_sign"] <- "+"
-  cpdag[cpdag$cor <= 0, "cor_sign"] <- "-"
+  cpdag[cpdag$zero_order_r > 0, "r_sign"] <- "+"
+  cpdag[cpdag$zero_order_r <= 0, "r_sign"] <- "-"
   return(cpdag)
 }
