@@ -102,6 +102,7 @@ if (nrow(pc_output_df) == 0){
     # OUTPUT NODES
     if(grepl("L", args[3])){
       n <- substr(args[3], 1, nchar(args[3])-1)
+      n <- as.integer(n)+1
     } else {
       n <- args[3]
     }
