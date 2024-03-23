@@ -10,13 +10,14 @@ if (length(args)==0 | length(args)==1 | length(args)==2 | length(args)==3) {
   cat("\nAt least 4 arguments must be supplied: \nexplist.csv organism_type n pcVer")
   cat("\n")
   stop("", call.=FALSE)
-} else if (length(args)==4 & (args[4] == "mrf" | args[4] == "cf")) {
+} else if (length(args)==4 & (args[4] == "mrf" | args[4] == "cf" | args[4] == "o" | args[4] == "s" | args[4] == "sf" | args[4] == "mr" | args[4] == "c")) {
   expansion_list_dir <- c(paste(path, paste("/", args[1], sep = "", collapse = NULL) , sep = "", collapse = NULL))
 }
 
 
 # EXPANSION LIST LOADING
 expansion_list <- read_csv(expansion_list_dir, skip = 1, progress=FALSE, show_col_types = FALSE)
+
 
 if(args[2] == "Hs"){
 
@@ -77,13 +78,14 @@ if (nrow(pc_output_df) == 0){
     
     gene_of_interest <- data.frame(
       rank = "0",
-      ID = fantom_anno_table$V1[fantom_anno_table$V1 == target_tid],
+      TID = fantom_anno_table$V1[fantom_anno_table$V1 == target_tid],
       Fabs = NA, 
       Frel = 1,
-      association_with_transcript = fantom_anno_table$V2[fantom_anno_table$V1 == target_tid],
-      entrezgene_id = fantom_anno_table$V3[fantom_anno_table$V1 == target_tid], 
-      hgnc_id = fantom_anno_table$V4[fantom_anno_table$V1 == target_tid],
-      uniprot_id = fantom_anno_table$V5[fantom_anno_table$V1 == target_tid],
+      coords = "?",
+      transcript = fantom_anno_table$V2[fantom_anno_table$V1 == target_tid],
+      entrezgene_id = paste0("e:",fantom_anno_table$V3[fantom_anno_table$V1 == target_tid]), 
+      hgnc_id = paste0("h:",fantom_anno_table$V4[fantom_anno_table$V1 == target_tid]),
+      uniprot_id = paste0("u:", fantom_anno_table$V5[fantom_anno_table$V1 == target_tid]),
       gene_name = fantom_anno_table$V6[fantom_anno_table$V1 == target_tid],
       description = fantom_anno_table$V7[fantom_anno_table$V1 == target_tid], 
       type = fantom_anno_table$V8[fantom_anno_table$V1 == target_tid]
@@ -93,16 +95,23 @@ if (nrow(pc_output_df) == 0){
     nodes_list <- get_nodes(pc_output_df, expansion_list)
     check_deleted_nodes(nodes_list, colnames(pc_input_matrix), expansion_list, args[2])
     nodes_list <- format_Hs(nodes_list)
-    nodes_list <- nodes_list[, c(2,5,9,6,7,8,10,1,4,11)]
+    nodes_list <- nodes_list[, c(6,10,5,7,8,9,11,12,1,4,2)]
     nodes_list[is.na(nodes_list)] <- ""
     cpdag <- get_pearson_corr (pc_output_df, pc_input_matrix) # INITIAL PEARSON CORRELATION (EDGES)
     
     # OUTPUT NODES
-    nodes_dir <- paste(path, paste(target_isoform, "_nodes.csv", sep = "", collapse = NULL) , sep = "/Hs/", collapse = NULL)
+    if(grepl("L", args[3])){
+      n <- substr(args[3], 1, nchar(args[3])-1)
+    } else {
+      n <- args[3]
+    }
+    nodes_list_name <- paste(target_isoform,"_",n,"_",args[4], "_nodes.csv", sep = "", collapse = NULL)
+    nodes_dir <- paste(path, nodes_list_name , sep = "/Hs/", collapse = NULL)
     write.csv(nodes_list, nodes_dir, row.names=FALSE, quote=FALSE)
     
     # OUTPUT EDGES
-    cpdag_dir <- paste(path, paste(target_isoform, "_edges.csv", sep = "", collapse = NULL) , sep = "/Hs/", collapse = NULL)
+    edges_list_name <- paste(target_isoform,"_",n,"_",args[4], "_edges.csv", sep = "", collapse = NULL)
+    cpdag_dir <- paste(path, edges_list_name , sep = "/Hs/", collapse = NULL)
     write.csv(cpdag, cpdag_dir, row.names=FALSE, quote=FALSE)
     
   } else if (args[2] == "Vv") {

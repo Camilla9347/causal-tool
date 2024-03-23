@@ -15,11 +15,11 @@ set_pc_input <- function(input_matrix, target_gene, exp_list, cut, organism){
     cut <- gsub("L", "", cut)
     cut <- strtoi(cut, base = 0L)
     #cut the list according to number of genes
-    tid_list <- exp_list$ID[as.numeric(exp_list$rank) <= as.numeric(cut)]
+    tid_list <- exp_list$TID[as.numeric(exp_list$rank) <= as.numeric(cut)]
     rank_list <- exp_list$rank[as.numeric(exp_list$rank) <= as.numeric(cut)]
   } else {
     #cut the list according to relative frequency
-    tid_list <- exp_list$ID[as.numeric(exp_list$Frel) >= as.numeric(cut)]
+    tid_list <- exp_list$TID[as.numeric(exp_list$Frel) >= as.numeric(cut)]
     rank_list <- exp_list$rank[as.numeric(exp_list$Frel) >= as.numeric(cut)]
   }
   if(organism == "Hs"){
@@ -64,11 +64,8 @@ apply_pc <- function (pc_input_matrix){
       labels = v,
       u2pd = "relaxed",
       skel.method = "stable.fast",
-      conservative = FALSE,
       maj.rule = TRUE,
-      solve.confl = TRUE,
-      verbose = FALSE
-      
+      solve.confl = TRUE
     )
     
   } else if(args[4]== "cf") {
@@ -81,11 +78,63 @@ apply_pc <- function (pc_input_matrix){
       u2pd = "relaxed",
       skel.method = "stable.fast",
       conservative = TRUE,
-      maj.rule = FALSE,
-      solve.confl = TRUE,
-      verbose = FALSE
-      
+      solve.confl = TRUE
     )
+    
+  } else if (args[4]== "c"){
+    
+    pc_fit <-pc(
+      suffStat = list(C = cor(pc_input_matrix), n = n),
+      indepTest = gaussCItest, 
+      alpha = 0.05,
+      labels = v,
+      u2pd = "relaxed",
+      skel.method = "stable",
+      conservative = TRUE,
+      solve.confl = TRUE
+    )
+    
+  } else if (args[4]== "mr"){
+    
+    pc_fit <-pc(
+      suffStat = list(C = cor(pc_input_matrix), n = n),
+      indepTest = gaussCItest, 
+      alpha = 0.05,
+      labels = v,
+      u2pd = "relaxed",
+      skel.method = "stable",
+      maj.rule = TRUE,
+      solve.confl = TRUE
+    )
+    
+  } else if (args[4]== "o"){
+    
+    pc_fit <-pc(
+      suffStat = list(C = cor(pc_input_matrix), n = n),
+      indepTest = gaussCItest, 
+      alpha = 0.05,
+      labels = v,
+      skel.method = "original"
+    )
+    
+  } else if (args[4]== "sf"){
+    pc_fit <-pc(
+      suffStat = list(C = cor(pc_input_matrix), n = n),
+      indepTest = gaussCItest, 
+      alpha = 0.05,
+      labels = v,
+      skel.method = "stable.fast"
+    )
+    
+  } else if (args[4]== "s"){
+    pc_fit <-pc(
+      suffStat = list(C = cor(pc_input_matrix), n = n),
+      indepTest = gaussCItest, 
+      alpha = 0.05,
+      labels = v,
+      skel.method = "stable"
+    )
+    
   }
   
   end_time <- Sys.time()
@@ -181,24 +230,24 @@ get_nodes <- function (cpdag, expansion_list){
   unique_nodes_list <- unique(lazy_nodes_list)
   nodes_list <- data.frame()
   for (node in unique_nodes_list) {
-    nodes_list <- rbind(nodes_list, expansion_list[expansion_list$ID == node,])
+    nodes_list <- rbind(nodes_list, expansion_list[expansion_list$TID == node,])
   }
   row.names(nodes_list) <- 1:nrow(nodes_list)
   return(nodes_list)
 }
 
 check_deleted_nodes <- function(nodes_list, input_nodes, expansion_list,organism) {
-  if (length(setdiff(input_nodes, nodes_list[,"ID"])) == 0){ 
+  if (length(setdiff(input_nodes, nodes_list[,"TID"])) == 0){ 
     cat("\nAll input nodes belong to the output graph")
   } else {
-    #print(setdiff(input_nodes, nodes_list[,"ID"]))
-    del_nodes <- setdiff(input_nodes, nodes_list[,"ID"])
+    #print(setdiff(input_nodes, nodes_list[,"TID"]))
+    del_nodes <- setdiff(input_nodes, nodes_list[,"TID"])
     del_nodes_list <- list()
     if(organism == "Hs"){
       for (i in del_nodes) {
-        for (j in expansion_list$ID) {
+        for (j in expansion_list$TID) {
           if(i == j){
-            del_nodes_list <- append(del_nodes_list, expansion_list$association_with_transcript[expansion_list$ID==i])
+            del_nodes_list <- append(del_nodes_list, expansion_list$association_with_transcript[expansion_list$TID==i])
           }
         }
       }
@@ -219,8 +268,11 @@ check_deleted_nodes <- function(nodes_list, input_nodes, expansion_list,organism
 format_Hs <- function(nodes_list){
   i <- 0
   for (i in 1:nrow(nodes_list)){
-    if(grepl(",", nodes_list$association_with_transcript[i])){
-      nodes_list$association_with_transcript[i]<- gsub(",",";", nodes_list$association_with_transcript[i])
+    if(grepl(",", nodes_list$transcript[i])){
+      nodes_list$transcript[i]<- gsub(",",";", nodes_list$transcript[i])
+    }
+    if(grepl(",", nodes_list$coords[i])){
+      nodes_list$coords[i]<- gsub(",",";", nodes_list$coords[i])
     }
     if(grepl(",", nodes_list$entrezgene_id[i])){
       nodes_list$entrezgene_id[i]<- gsub(",",";", nodes_list$entrezgene_id[i])
