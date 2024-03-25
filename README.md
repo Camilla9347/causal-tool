@@ -27,3 +27,9 @@ Loaded via a namespace (and not attached):
 *igraph_1.6.0* &nbsp; *robustbase_0.99-1* &nbsp; *Rcpp_1.0.11* &nbsp; *pkgconfig_2.0.3* &nbsp; *R6_2.5.1*  
 *utf8_1.2.4* &nbsp; *pillar_1.9.0* &nbsp; *magrittr_2.0.3* &nbsp; *tools_4.3.2* &nbsp; *bdsmatrix_1.3-6*  
 *sfsmisc_1.1-16* &nbsp; *BiocGenerics_0.48.1*  
+
+
+## User input
+
+For relative frequency use at least 1 decimal, even for 1 or 0 type 1.0 and 0.0
+For number of genes type the integer number followed by "L": 100L (first 100 genes of the expansion list)
