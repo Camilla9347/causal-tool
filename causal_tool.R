@@ -97,6 +97,8 @@ if (nrow(pc_output_df) == 0){
     nodes_list <- format_Hs(nodes_list)
     nodes_list <- nodes_list[, c(6,10,5,7,8,9,11,12,1,4,2)]
     nodes_list[is.na(nodes_list)] <- ""
+    nodes_list$rank <- as.numeric(nodes_list$rank) # aggiungi su Vv
+    nodes_list <- nodes_list[order(nodes_list$rank),] # aggiungi su Vv
     cpdag <- get_pearson_corr (pc_output_df, pc_input_matrix) # INITIAL PEARSON CORRELATION (EDGES)
     
     # OUTPUT NODES
