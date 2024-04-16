@@ -9,7 +9,7 @@ R version 4.3.2 (2023-10-31) -- "Eye Holes"
 Copyright (C) 2023 The R Foundation for Statistical Computing  
 Platform: aarch64-apple-darwin20 (64-bit)  
 
-Rstudio Version 2023.12.0+369 (2023.12.0+369)  
+Rstudio Version 2023.12.0+369
 
 Loading required package: *BiocManager*  
 Bioconductor version 3.18 (BiocManager 1.30.22)
@@ -27,6 +27,16 @@ Loaded via a namespace (and not attached):
 *igraph_1.6.0* &nbsp; *robustbase_0.99-1* &nbsp; *Rcpp_1.0.11* &nbsp; *pkgconfig_2.0.3* &nbsp; *R6_2.5.1*  
 *utf8_1.2.4* &nbsp; *pillar_1.9.0* &nbsp; *magrittr_2.0.3* &nbsp; *tools_4.3.2* &nbsp; *bdsmatrix_1.3-6*  
 *sfsmisc_1.1-16* &nbsp; *BiocGenerics_0.48.1*  
+
+## Snapshot of Rstudio workspace
+
+R version 4.3.3 (2024-02-29) -- "Angel Food Cake"
+Copyright (C) 2024 The R Foundation for Statistical Computing
+Platform: aarch64-apple-darwin20 (64-bit)
+
+Rstudio Version 2023.12.0+369
+
+
 
 
 ## User input
