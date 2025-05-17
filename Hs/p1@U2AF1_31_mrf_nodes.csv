@@ -1,0 +1,32 @@
+transcript,gene_name,coords,entrezgene_id,hgnc_id,uniprot_id,description,type,rank,Frel,TID
+p1@U2AF1,U2AF1,?,e:7307,h:12453,u:Q701P4;Q71RF1;F8WDB0;Q7Z780;Q01081;Q69YM7,U2 small nuclear RNA auxiliary factor 1,gene with protein product,0,1,T105641
+p1@C1orf135,AUNIP,chr1:26185844..26185954;-,e:79000,h:28363,u:Q9H7T9;u:C9EI59,aurora kinase A and ninein interacting protein,gene with protein product,1,1,T092609
+p1@SCARB2,SCARB2,chr4:77134970..77134985;-,e:950,h:1665,u:Q14108,scavenger receptor class B member 2,gene with protein product,2,1,T145731
+p2@TCP11L1,TCP11L1,chr11:33061543..33061585;+,e:55346,h:25655,u:Q9NUJ3;u:E9PS88,t-complex 11 like 1,gene with protein product,3,1,T013618
+p1@ZMAT3,ZMAT3,chr3:178789566..178789620;-,e:64393,h:29983,,zinc finger matrin-type 3,gene with protein product,4,1,T131936
+p1@ALYREF,ALYREF,chr17:79849438..79849493;-,e:10189,h:19071,u:Q86V81;u:E9PB61,Aly/REF export factor,gene with protein product,5,0.999,T064958
+p1@PPM1G,PPM1G,chr2:27632390..27632486;-,e:5496,h:9278,u:O15355,protein phosphatase; Mg2+/Mn2+ dependent 1G,gene with protein product,6,0.999,T121697
+p1@PRPF38A,PRPF38A,chr1:52870263..52870294;+,e:84950,h:25930,,pre-mRNA processing factor 38A,gene with protein product,7,0.999,T095314
+p1@FUS,FUS,chr16:31191456..31191463;+,e:2521,h:4010,u:A6NMX6;u:B4DR70,FUS RNA binding protein,gene with protein product,8,0.999,T051165
+p1@SNRPA1,SNRPA1,chr15:101835414..101835462;-,e:6627,h:11152,u:P09661;u:O95485,small nuclear ribonucleoprotein polypeptide A',gene with protein product,9,0.999,T042191
+p1@HNRNPD,HNRNPD,chr4:83295103..83295157;-,e:3184,h:5036,u:Q14103;u:D6RD83;u:D6RBP9;u:F5H6R6,heterogeneous nuclear ribonucleoprotein D,gene with protein product,10,0.999,T146273
+p1@CHAF1B,CHAF1B,chr21:37757668..37757731;+,e:8208,h:1911,u:Q13112,chromatin assembly factor 1 subunit B,gene with protein product,11,0.999,T104950
+p1@ILF2,ILF2,chr1:153643442..153643475;-,e:3608,h:6037,,interleukin enhancer binding factor 2,gene with protein product,12,0.999,T082876
+p1@KCMF1,KCMF1,chr2:85198231..85198305;+,e:56888,h:20589,u:Q9P0J7,potassium channel modulatory factor 1,gene with protein product,13,0.999,T125629
+p1@C3orf18,C3orf18,chr3:50605077..50605140;-,e:51161,h:24837,u:Q9UK00;u:F8WCC4;u:C9JNP0,chromosome 3 open reading frame 18,gene with protein product,14,0.999,T135937
+p1@CLIP4,CLIP4,chr2:29338236..29338439;+,e:79745,h:26108,u:Q8N3C7,CAP-Gly domain containing linker protein family member 4,gene with protein product,15,0.999,T121956
+p1@CLN5,CLN5,chr13:77566179..77566264;+,e:1203,h:2076,u:B4E1V6,ceroid-lipofuscinosis; neuronal 5,gene with protein product,16,0.9985,T034389
+p1@ERLEC1,ERLEC1,chr2:54014168..54014220;+,e:27248,h:25222,u:Q96DZ1;u:B5MC72,endoplasmic reticulum lectin 1,gene with protein product,17,0.9985,T123523
+p1@MCM2,MCM2,chr3:127317243..127317288;+,e:4171,h:6944,u:F8WDM3;u:F5H3V0;u:F5H1E9;u:P49736,minichromosome maintenance complex component 2,gene with protein product,18,0.998,T128627
+p2@SNRPG,SNRPG,chr2:70520810..70520831;-,e:6637,h:11163,u:C9JVQ0,small nuclear ribonucleoprotein polypeptide G,gene with protein product,19,0.998,T124862
+p1@ARSA,ARSA,chr22:51066521..51066605;-,e:410,h:713,u:P15289;u:F8WCC8;u:B4DVI5;u:B7XD04,arylsulfatase A,gene with protein product,20,0.9975,T110222
+p3@YY1AP1,YY1AP1,chr1:155658766..155658803;-,e:55249,h:30935,u:Q9H869,YY1 associated protein 1,gene with protein product,21,0.997,T083375
+p7@HNRNPD,HNRNPD,chr4:83295064..83295075;-,e:3184,h:5036,u:Q14103,heterogeneous nuclear ribonucleoprotein D,gene with protein product,22,0.996,T146271
+p2@SPRED1,SPRED1,chr15:38544993..38545058;+,e:161742,h:20249,u:Q7Z699,sprouty related EVH1 domain containing 1,gene with protein product,23,0.996,T043053
+p1@PPCS,PPCS,chr1:42922196..42922241;+,e:79717,h:25686,u:Q5VVM2;u:Q5VVM3;u:Q9HAB8,phosphopantothenoylcysteine synthetase,gene with protein product,24,0.9955,T094518
+p3@RCC1,RCC1,chr1:28844778..28844807;+,e:1104,h:1913,u:C9JW69,regulator of chromosome condensation 1,gene with protein product,25,0.995,T093134
+p1@SLC30A1,SLC30A1,chr1:211752484..211752512;-,e:7779,h:11012,u:Q9Y6M5,solute carrier family 30 member 1,gene with protein product,26,0.9945,T089342
+p1@SNRPG,SNRPG,chr2:70520832..70520881;-,e:6637,h:11163,u:C9JVQ0;u:P62308,small nuclear ribonucleoprotein polypeptide G,gene with protein product,27,0.994,T124863
+p1@REEP3,REEP3,chr10:65281125..65281183;+,e:221035,h:23711,,receptor accessory protein 3,gene with protein product,28,0.994,T005961
+p1@FAM136A,FAM136A,chr2:70529150..70529179;-,e:84908,h:25911,u:E7EQY1,family with sequence similarity 136 member A,gene with protein product,29,0.9935,T124866
+p3@FBL,FBL,chr19:40331310..40331344;-,e:2091,h:3599,u:Q96BS4,fibrillarin,gene with protein product,30,0.9935,T074197

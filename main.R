@@ -12,11 +12,16 @@ if (length(args)==0 | length(args)==1 | length(args)==2 | length(args)==3) {
   stop("", call.=FALSE)
 } else if (length(args)==4 & (args[4] == "mrf" | args[4] == "cf" | args[4] == "o" | args[4] == "s" | args[4] == "sf" | args[4] == "mr" | args[4] == "c")) {
   expansion_list_dir <- c(paste(path, paste("/", args[1], sep = "", collapse = NULL) , sep = "", collapse = NULL))
+} else {
+  cat("\nThe available pc versions are: mrf (maj.rule fast), cf (conservative fast), o (original), s (stable), sf (stable.fast), mr (maj.rule), c (conservative)")
+  cat("\n")
+  stop("", call.=FALSE)
 }
 
 
 # EXPANSION LIST LOADING
 expansion_list <- read_csv(expansion_list_dir, skip = 1, progress=FALSE, show_col_types = FALSE)
+head(expansion_list)
 
 
 if(args[2] == "Hs"){
