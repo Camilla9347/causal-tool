@@ -15,18 +15,28 @@ set_pc_input <- function(input_matrix, target_gene, exp_list, cut, organism){
     cut <- gsub("L", "", cut)
     cut <- strtoi(cut, base = 0L)
     #cut the list according to number of genes
-    tid_list <- exp_list$TID[as.numeric(exp_list$rank) <= as.numeric(cut)]
-    rank_list <- exp_list$rank[as.numeric(exp_list$rank) <= as.numeric(cut)]
+    #tid_list <- exp_list$TID[as.numeric(exp_list$rank) <= as.numeric(cut)]
+    tid_list <- head(exp_list$TID, as.numeric(cut))
+    print(tid_list)
+    #rank_list <- exp_list$rank[as.numeric(exp_list$rank) <= as.numeric(cut)]
+    rank_list <- head(exp_list$rank, as.numeric(cut))
+    print(rank_list)
   } else {
     #cut the list according to relative frequency
     tid_list <- exp_list$TID[as.numeric(exp_list$Frel) >= as.numeric(cut)]
+    #print(tid_list)
     rank_list <- exp_list$rank[as.numeric(exp_list$Frel) >= as.numeric(cut)]
+    Frel_list <- exp_list$Frel[as.numeric(exp_list$Frel) >= as.numeric(cut)]
+    #print(rank_list)
+    #print(Frel_list)
   }
   if(organism == "Hs"){
     target_tid <- strsplit(target_gene, "-")[[1]][1]
+    #print(target_tid)
     tid_list <- append(tid_list, target_tid,after=0) #, after=0
   } else if (organism == "Vv") {
     tid_list <- append(tid_list, target_gene,after=0) #, after=0
+    #print(target_gene)
   }
   rank_list <- append(rank_list, "0", after=0)
   #check_rank = data.frame(unlist(tid_list),unlist(rank_list))
@@ -57,6 +67,7 @@ apply_pc <- function (pc_input_matrix){
   
   if(args[4]== "mrf"){
     
+    cat("\nApplying maj.rule fast PC version...")
     pc_fit <-pc(
       suffStat = list(C = cor(pc_input_matrix), n = n),
       indepTest = gaussCItest, 
@@ -70,6 +81,7 @@ apply_pc <- function (pc_input_matrix){
     
   } else if(args[4]== "cf") {
     
+    cat("\nApplying conservative fast PC version...")
     pc_fit <-pc(
       suffStat = list(C = cor(pc_input_matrix), n = n),
       indepTest = gaussCItest, 
@@ -83,6 +95,7 @@ apply_pc <- function (pc_input_matrix){
     
   } else if (args[4]== "c"){
     
+    cat("\nApplying conservative PC version...")
     pc_fit <-pc(
       suffStat = list(C = cor(pc_input_matrix), n = n),
       indepTest = gaussCItest, 
@@ -96,6 +109,7 @@ apply_pc <- function (pc_input_matrix){
     
   } else if (args[4]== "mr"){
     
+    cat("\nApplying maj.rule PC version...")
     pc_fit <-pc(
       suffStat = list(C = cor(pc_input_matrix), n = n),
       indepTest = gaussCItest, 
@@ -109,6 +123,7 @@ apply_pc <- function (pc_input_matrix){
     
   } else if (args[4]== "o"){
     
+    cat("\nApplying original PC version...")
     pc_fit <-pc(
       suffStat = list(C = cor(pc_input_matrix), n = n),
       indepTest = gaussCItest, 
@@ -118,6 +133,8 @@ apply_pc <- function (pc_input_matrix){
     )
     
   } else if (args[4]== "sf"){
+    
+    cat("\nApplying stable.fast PC version...")
     pc_fit <-pc(
       suffStat = list(C = cor(pc_input_matrix), n = n),
       indepTest = gaussCItest, 
@@ -127,6 +144,8 @@ apply_pc <- function (pc_input_matrix){
     )
     
   } else if (args[4]== "s"){
+    
+    cat("\nApplying stable PC version...")
     pc_fit <-pc(
       suffStat = list(C = cor(pc_input_matrix), n = n),
       indepTest = gaussCItest, 
@@ -155,7 +174,7 @@ edgeListFromPCamat <- function (adj_mat){
   # BI-DIRECTED (UNDIRECTED/AMBIGUOUS) EDGES (2)
   twos_df = cbind.data.frame(source = colnames(adj_mat)[twos[, 2]],
                              interaction = adj_mat[twos],
-                             target = rownames( adj_mat)[twos[, 1]] 
+                             target = rownames(adj_mat)[twos[, 1]] 
   )
   # there are no bidirected edges
   if (nrow(twos_df)!=0){
@@ -253,9 +272,9 @@ check_deleted_nodes <- function(nodes_list, input_nodes, expansion_list,organism
       }
     }else if (organism == "Vv") {
       for (i in del_nodes) {
-        for (j in expansion_list$ID) {
+        for (j in expansion_list$TID) {
           if(i == j){
-            del_nodes_list <- append(del_nodes_list, expansion_list$gene_name[expansion_list$ID==i])
+            del_nodes_list <- append(del_nodes_list, expansion_list$gene_name[expansion_list$TID==i])
           }
         }
       }
