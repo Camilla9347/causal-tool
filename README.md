@@ -1,4 +1,4 @@
-# JBI-Special-Issue-BITS-2022
+# JBI 2025
 
 
 ## Prerequisites
