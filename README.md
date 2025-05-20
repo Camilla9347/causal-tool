@@ -6,7 +6,7 @@
 To run the data processing procedure make sure you have installed in the **MAIN** folder the following:
 
 - **R version ≥ 3.5.0**. The R version used to write this data processing procedure is **4.1.1 (2021-08-10) -- "Kick Things"** and it is available at https://cran.r-project.org/src/base/R-4/ for **MacOs**, https://cran.r-project.org/bin/windows/base/old/4.1.1/ for **Windows** and https://cran.r-project.org/doc/manuals/r-patched/R-admin.html for **Unix**.
-- **PHP**, available at https://www.php.net/manual/en/install.php
+
 
 To visualize and interact with the data processing procedure, make sure you have installed **Cytoscape version 3.9.1**, available at https://cytoscape.org/download.html
 
