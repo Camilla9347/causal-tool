@@ -98,7 +98,7 @@ The causal tool has two output files:
  
 ##### Homo sapiens example _T105641_p1@<!-- -->U2AF1.csv_
 
-| spurce | interaction | target | zero_order_r | r_sign |
+| source | interaction | target | zero_order_r | r_sign |
 | :---   |     :---  |   :--- |  :---  |:---    | 
 | T005391| --- | T126388 | 0.831005760842777| + |
 | T017334 | --> |T017335 | 0.893899138354596 | + |
