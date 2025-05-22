@@ -60,6 +60,8 @@ if(args[2] == "Hs"){
   target_gene <- read.table(expansion_list_dir, header = F, sep = ",", nrows = 1)
   #print(target_gene)
   target_vit <- target_gene[1, "V4"]
+  #target_vit <- strsplit(target_vit, "_")[[1]][3] # new expansion list
+  #target_vit = paste("VIT_", target_vit, sep="")
   #print(target_vit)
   pc_input_matrix <- set_pc_input(input_matrix, target_vit, expansion_list, args[3], args[2])
 
@@ -162,7 +164,7 @@ if (nrow(pc_output_df) == 0){
     expansion_list <- rbind(gene_of_interest, expansion_list)
     nodes_list <-  get_nodes(pc_output_df,expansion_list)
     check_deleted_nodes(nodes_list, colnames(pc_input_matrix), expansion_list, args[2])
-    nodes_list <- nodes_list[, c(2,5,6,7,8,9,10,11,12,13,14,15,1,4)]
+    #nodes_list <- nodes_list[, c(2,5,6,7,8,9,10,11,12,13,14,15,1,4)]
     nodes_list[is.na(nodes_list)] <- ""
     nodes_list$rank <- as.numeric(nodes_list$rank) 
     nodes_list <- nodes_list[order(nodes_list$rank),] 

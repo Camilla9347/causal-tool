@@ -17,10 +17,10 @@ set_pc_input <- function(input_matrix, target_gene, exp_list, cut, organism){
     #cut the list according to number of genes
     #tid_list <- exp_list$TID[as.numeric(exp_list$rank) <= as.numeric(cut)]
     tid_list <- head(exp_list$TID, as.numeric(cut))
-    print(tid_list)
+    #print(tid_list)
     #rank_list <- exp_list$rank[as.numeric(exp_list$rank) <= as.numeric(cut)]
     rank_list <- head(exp_list$rank, as.numeric(cut))
-    print(rank_list)
+    #print(rank_list)
   } else {
     #cut the list according to relative frequency
     tid_list <- exp_list$TID[as.numeric(exp_list$Frel) >= as.numeric(cut)]
