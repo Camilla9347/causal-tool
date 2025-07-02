@@ -72,7 +72,7 @@ Here are some examples:
   ```
   
   ```
-  % Rscript main.R 54651_Vv-VIT_04s0008g06000.exp.csv Vv 150 cf
+  % Rscript main.R 54651_Vv-VIT_04s0008g06000.exp.csv Vv 150L cf
 
   ```
 
@@ -84,7 +84,7 @@ Here are some examples:
   ```
   
   ```
-  % Rscript main.R T105641_p1@U2AF1.csv Hs 200 s
+  % Rscript main.R T105641_p1@U2AF1.csv Hs 200L s
 
   ```
   
