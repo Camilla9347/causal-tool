@@ -36,7 +36,7 @@ set_pc_input <- function(input_matrix, target_gene, exp_list, cut, organism){
     tid_list <- append(tid_list, target_tid,after=0) #, after=0
   } else if (organism == "Vv") {
     tid_list <- append(tid_list, target_gene,after=0) #, after=0
-    #print(target_gene)
+    print(target_gene)
   }
   rank_list <- append(rank_list, "0", after=0)
   #check_rank = data.frame(unlist(tid_list),unlist(rank_list))

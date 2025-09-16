@@ -23,10 +23,15 @@ n <- round(nrow(expansion_list)/4)
 #print(n)
 #print(expansion_list[n,]$rank)
 expansion_list <- head(expansion_list, n)
+header <- cbind(header, V6=NA,V7=NA, V8=NA, V9=NA, V10=NA, V11=NA, V12=NA)
+new_names <- c("rank","TID","Fabs","Frel","coords","transcript","entrezgene_id","hgnc_id","uniprot_id","gene_name","description","type")
+names(header) <- new_names
+expansion_list <- rbind(header, expansion_list)
 #print(expansion_list)
+names(expansion_list) <- head(expansion_list,1)
+expansion_list = expansion_list[-1,]
+expansion_list <- rbind(c("rank","TID","Fabs","Frel","coords","transcript","entrezgene_id","hgnc_id","uniprot_id","gene_name","description","type"), expansion_list)
 nrow(expansion_list)
-#print(header)
-
 
 nodes_list_name <- paste(target_isoform,"_",n, "_explist.csv", sep = "", collapse = NULL)
 nodes_dir <- paste(path, nodes_list_name , sep = "/", collapse = NULL)
