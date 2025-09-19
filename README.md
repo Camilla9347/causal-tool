@@ -155,3 +155,4 @@ loaded via a namespace (and not attached):
 [34] abind_1.4-8         stats4_4.4.3        tools_4.4.3        
 [37] pkgconfig_2.0.3
 ```
+Additionally, A _renv.lock_ file was generated to create a reproducible environment.
