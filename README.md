@@ -2,7 +2,7 @@
 
 
 ## Prerequisites
-To run the tool, make sure you have installed, at least in the **MAIN** folder of this repository, a **R version $\geq$ 4.4.3** (used to write the procedure).
+To run the tool, make sure you have installed, at least in the **MAIN** folder of this repository, a **R version $\eq$ 4.4.3** (used to write the procedure).
 To visualize and interact with the tool output, make sure you have installed **Cytoscape version 3.10.3**, available at https://cytoscape.org/download.html.
 
 ## Input preparation
@@ -123,3 +123,35 @@ To visualize the pc() ouptut graph on Cytoscape, do the following steps:
 4. Select the _table_ icon from the main horizontal toolbar, which stands for _Import Table from File_ (or from File -> Import -> Table from file) and select the _\_nodes.csv_ file from the **Vv** folder or **Hs** folder inside **MAIN**;
 5. In the _Import Columns from Table_ panel, make sure that the **TID** column has the **key** icon (click on **TID** and select it from the menu), then click the OK button and wait for the table to load;
 6. The **Vv** and **Hs** folders contain respectively a _Vv_style.xml_ and a _Hs_style.xml_ that can be uploaded in Cytoscape to customize the network appearance (From File -> Import -> Styles from file...). This feature is managed by the _Style_ panel (under _Network_ in the main vertical toolbar), from which you can selected the uploaded style and visualize the network in a more human-friendly and enriched way.
+
+## Reproducibility
+
+The relevant information from the R ```sessionInfo()``` command is presented here to reproduce the output:
+
+```
+Output: R version 4.4.3 (2025-02-28)
+Matrix products: default
+BLAS:   /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRblas.0.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] pcalg_2.7-12 readr_2.1.5 
+
+loaded via a namespace (and not attached):
+ [1] bit_4.6.0           compiler_4.4.3      BiocManager_1.30.25
+ [4] crayon_1.5.3        tidyselect_1.2.1    Rcpp_1.0.14        
+ [7] parallel_4.4.3      fastICA_1.2-7       cluster_2.1.8.1    
+[10] R6_2.6.1            igraph_2.1.4        RBGL_1.82.0        
+[13] robustbase_0.99-4-1 BiocGenerics_0.52.0 bdsmatrix_1.3-7    
+[16] graph_1.84.1        tibble_3.2.1        sfsmisc_1.1-20     
+[19] pillar_1.10.2       tzdb_0.5.0          rlang_1.1.6        
+[22] bit64_4.6.0-1       cli_3.6.5           magrittr_2.0.3     
+[25] vroom_1.6.5         hms_1.1.3           lifecycle_1.0.4    
+[28] clue_0.3-66         DEoptimR_1.1-3-1    vctrs_0.6.5        
+[31] glue_1.8.0          ggm_2.5.1           corpcor_1.6.10     
+[34] abind_1.4-8         stats4_4.4.3        tools_4.4.3        
+[37] pkgconfig_2.0.3
+```
