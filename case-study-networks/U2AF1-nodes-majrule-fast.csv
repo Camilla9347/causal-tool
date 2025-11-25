@@ -1,0 +1,864 @@
+TID,gene_name,transcript,entrezgene_id,hgnc_id,uniprot_id,rank,Frel,description
+T005391,ZWINT,p1@ZWINT,e:11130,h:13195,u:A6NNV6;u:A6NNP9;u:O95229,39,0.9901,ZW10 interacting kinetochore protein
+T017334,CTSF,p1@CTSF,e:8722,h:2531,u:Q9UBX1,591,0.609,cathepsin F
+T036271,PNP,p1@PNP,e:4860,h:7892,u:G3V308,374,0.7544,purine nucleoside phosphorylase
+T052342,MT1M,p5@MT1M,e:4499,h:14296,u:Q8N339,755,0.4838,metallothionein 1M
+T054922,BANP,p2@BANP,e:54971,h:13450,,823,0.4404,BTG3 associated nuclear protein
+T069033,PTPRM,p4@PTPRM,e:5797,h:9675,u:A7MBN1;u:P28827,53,0.9851,protein tyrosine phosphatase; receptor type M
+T148258,GRAMD3,p1@GRAMD3,e:65983,h:24911,,787,0.4586,GRAM domain containing 3
+T150539,TIGD6,p2@TIGD6,e:81789,h:18332,,581,0.6155,tigger transposable element derived 6
+T173649,ITGB8,p12@ITGB8,e:3696,h:6163,u:P26012;u:Q9BUG9,506,0.6688,integrin subunit beta 8
+T000394,NOLC1,p1@NOLC1,e:9221,h:15608,,799,0.4515,nucleolar and coiled-body phosphoprotein 1
+T000978,SMNDC1,p2@SMNDC1,e:10285,h:16900,,595,0.6059,survival motor neuron domain containing 1
+T001374,FAM160B1,p1@FAM160B1,e:57700,h:29320,u:Q5W0V4,780,0.4629,family with sequence similarity 160 member B1
+T001800,CDC123,p3@CDC123,e:8872,h:16827,u:O75794,636,0.5739,cell division cycle 123
+T001813,WDR11,p1@WDR11,e:55717,h:13831,u:Q9BZH6,91,0.9612,WD repeat domain 11
+T001938,PLEKHA1,p1@PLEKHA1,e:59338,h:14335,u:Q5RGS4;u:Q9HB21,323,0.7984,pleckstrin homology domain containing A1
+T002502,OPTN,p2@OPTN,e:10133,h:17142,u:Q96CV9,420,0.7287,optineurin
+T002526,MCM10,p1@MCM10,e:55388,h:18043,u:Q7L590;u:C9J600;u:Q5T670,214,0.881,minichromosome maintenance 10 replication initiation factor
+T002544,PHYH,p2@PHYH,e:5264,h:8940,u:O14832,709,0.519,phytanoyl-CoA 2-hydroxylase
+T002571,SEPHS1,p2@SEPHS1,e:22929,h:19685,u:P49903;u:Q5T5U9;u:D6PSQ9;u:B4DWK0;u:D3DRS9,658,0.5571,selenophosphate synthetase 1
+T003652,ARHGAP21,p2@ARHGAP21,e:57584,h:23725,u:Q5T5U3,473,0.6889,Rho GTPase activating protein 21
+T004396,CUL2,p1@CUL2,e:8453,h:2552,u:Q13617,794,0.456,cullin 2
+T005308,NET1,p3@NET1,e:10276,h:14592,u:Q7Z628;u:Q5SQI5,544,0.639,neuroepithelial cell transforming 1
+T005961,REEP3,p1@REEP3,e:221035,h:23711,,28,0.994,receptor accessory protein 3
+T005963,REEP3,p2@REEP3,e:221035,h:23711,,368,0.76,receptor accessory protein 3
+T006145,DNA2,p1@DNA2,e:1763,h:2939,u:F8VPM6;u:F8VR31;u:P51530,123,0.9409,DNA replication helicase/nuclease 2
+T006749,DNAJC9,p1@DNAJC9,e:23234,h:19123,u:B2RMW6;u:Q8WXX5,705,0.5216,DnaJ heat shock protein family (Hsp40) member C9
+T007573,GHITM,p2@GHITM,e:27069,h:17281,u:Q9Y6G2,515,0.6624,growth hormone inducible transmembrane protein
+T007602,CCSER2,p2@FAM190B,e:54462,h:29197,u:Q9H7U1,388,0.7454,coiled-coil serine rich protein 2
+T007722,GLUD1,p3@GLUD1,e:2746,h:4335,u:F5GYQ4,572,0.6238,glutamate dehydrogenase 1
+T008214,KIF11,p2@KIF11,e:3832,h:6388,u:P52732,807,0.4494,kinesin family member 11
+T009570,ARHGAP20,p1@ARHGAP20,e:57569,h:18357,u:Q9P2F6,793,0.4564,Rho GTPase activating protein 20
+T010532,RPS25,p2@RPS25,e:6230,h:10413,u:E9PQK3,594,0.6073,ribosomal protein S25
+T010793,SC5D,p4@SC5DL,e:6309,h:10547,,752,0.4854,sterol-C5-desaturase
+T010794,SC5D,p2@SC5DL,e:6309,h:10547,,524,0.6562,sterol-C5-desaturase
+T011202,SIAE,p1@SIAE,e:54414,h:18187,u:Q9HAT2,76,0.9706,sialic acid acetylesterase
+T011263,ROBO3,p3@ROBO3,e:64221,h:13433,,806,0.4498,roundabout guidance receptor 3
+T011410,TIRAP,p1@TIRAP,e:114609,h:17192,u:F8WAI7;u:P58753;u:F5H2K1;u:Q56UH9,371,0.7573,TIR domain containing adaptor protein
+T011787,SNX19,p1@SNX19,e:399979,h:21532,u:E9PLV3;u:E9PKB9;u:F5H5D1;u:Q92543,199,0.8905,sorting nexin 19
+T012515,UEVLD,p2@UEVLD,e:55293,h:30866,u:A8MYV4;u:F5H6L6,278,0.832,UEV and lactate/malate dehyrogenase domains
+T012561,TMEM86A,p2@TMEM86A,e:144110,h:26890,,434,0.7159,transmembrane protein 86A
+T013618,TCP11L1,p2@TCP11L1,e:55346,h:25655,u:Q9NUJ3;u:E9PS88,3,1,t-complex 11 like 1
+T014852,RNH1,p3@RNH1,e:6050,h:10074,u:E9PLZ3,720,0.5135,ribonuclease/angiogenin inhibitor 1
+T014853,RNH1,p5@RNH1,e:6050,h:10074,u:E9PLZ3,306,0.8105,ribonuclease/angiogenin inhibitor 1
+T015622,CPSF7,p1@CPSF7,e:79869,h:30098,u:F5H669;u:F5H2K8;u:F5H6P5;u:F5H1W4;u:Q8N684;u:B4DGF8,327,0.7929,cleavage and polyadenylation specific factor 7
+T015688,FEN1,p1@FEN1,e:2237,h:3650,u:F5H1Y3,216,0.8789,flap structure-specific endonuclease 1
+T016575,SF1,p5@SF1,e:7536,h:12950,,620,0.5813,splicing factor 1
+T016692,CDCA5,p1@CDCA5,e:113130,h:14626,u:B5MBX0,321,0.7994,cell division cycle associated 5
+T016750,POLA2,p1@POLA2,e:23649,h:30073,u:B4DNB4;u:Q14181,693,0.5286,DNA polymerase alpha 2; accessory subunit
+T017161,EIF1AD,p1@EIF1AD,e:84285,h:28147,u:Q8N9N8;u:E9PNH5;u:E9PRR8;u:E9PS76;u:E9PLI6,767,0.4731,eukaryotic translation initiation factor 1A domain containing
+T017335,CTSF,p2@CTSF,e:8722,h:2531,u:Q9UBX1,337,0.7881,cathepsin F
+T017360,RBM14,p1@RBM14-RBM4;p1@RBM14;p1@RBM4,e:10432;e:100526737;e:5936,h:14219;h:38840;h:9901,u:B8ZZ74;u:B0LM41;u:F2Z2W2,551,0.6345,RNA binding motif protein 14
+T017375,RBM4,p2@RBM4,e:5936,h:9901,u:E9PB51,85,0.9637,RNA binding motif protein 4
+T018082,NUMA1,p2@NUMA1,e:4926,h:8059,u:Q14980;u:F5H073;u:F8W6T3;u:F5H2L0;u:F5H6Y5;u:F5GWK2;u:F5H0Z7;u:F5H7R5;u:Q3SYK8;u:Q4LE64;u:Q9BTE9;u:Q7Z757;u:A8K394,635,0.5741,nuclear mitotic apparatus protein 1
+T018170,ARAP1,p1@ARAP1,e:116985,h:16925,u:B2RTS2;u:Q96P48,54,0.9836,ArfGAP with RhoGAP domain; ankyrin repeat and PH domain 1
+T018491,ARRB1,p6@ARRB1,e:408,h:711,u:B7Z1Q3;u:P49407,218,0.8769,arrestin beta 1
+T019298,ME3,p6@ME3,e:10873,h:6985,u:E9PKA0,430,0.7188,malic enzyme 3
+T019299,ME3,p4@ME3,e:10873,h:6985,u:E9PKA0,234,0.8637,malic enzyme 3
+T019300,ME3,p3@ME3,e:10873,h:6985,u:E9PKA0,347,0.7815,malic enzyme 3
+T019444,TMEM9B,p1@TMEM9B,e:56674,h:1168,u:Q9NQ34;u:E9PR12;u:Q543A1;u:Q7Z649,517,0.6619,TMEM9 domain family member B
+T019724,ENDOD1,p1@ENDOD1,e:23052,h:29129,u:O94919,36,0.9915,endonuclease domain containing 1
+T019725,ENDOD1,p2@ENDOD1,e:23052,h:29129,u:O94919,110,0.9498,endonuclease domain containing 1
+T020139,PARPBP,p1@C12orf48,e:55010,h:26074,u:B4DZ31;u:B4DT40;u:Q9NWS1,522,0.6582,PARP1 binding protein
+T020140,PARPBP,p2@C12orf48,e:55010,h:26074,,318,0.8004,PARP1 binding protein
+T020570,TMEM263,p2@C12orf23,e:90488,h:28281,,682,0.5359,transmembrane protein 263
+T020788,UNG,p1@UNG,e:7374,h:12572,u:P13051;u:E5KTA5,192,0.8994,uracil DNA glycosylase
+T020789,UNG,p3@UNG,e:7374,h:12572,u:P13051,202,0.8878,uracil DNA glycosylase
+T021287,PLBD2,p1@PLBD2,e:196463,h:27283,u:Q8NHP8;u:F5H5E2,546,0.6383,phospholipase B domain containing 2
+T021676,WSB2,p1@WSB2,e:55884,h:19222,u:Q9NYS7,326,0.7933,WD repeat and SOCS box containing 2
+T021831,CIT,p1@CIT,e:11113,h:1985,u:Q2M5E1;u:O14578,534,0.6466,citron rho-interacting serine/threonine kinase
+T022264,DIABLO,p1@DIABLO,e:56616,h:21528,u:Q502X2;u:Q9NR28;u:F8W6K8;u:Q6W3F3;u:F5GXT8,613,0.5845,diablo IAP-binding mitochondrial protein
+T022631,BORCS5,p1@LOH12CR1,e:118426,h:17950,u:G3V1P3;u:Q969J3,128,0.9383,BLOC-1 related complex subunit 5
+T023192,FBRSL1,p2@FBRSL1,e:57666,h:29308,,264,0.839,fibrosin like 1
+T024242,BHLHE41,p3@BHLHE41,e:79365,h:16617,u:Q8TAT1;u:Q9C0J9,393,0.7419,basic helix-loop-helix family member e41
+T024246,BHLHE41,p7@BHLHE41,e:79365,h:16617,u:Q9C0J9,518,0.6615,basic helix-loop-helix family member e41
+T024387,CCDC91,p3@CCDC91,e:55297,h:24855,,838,0.4279,coiled-coil domain containing 91
+T024973,PPHLN1,p6@PPHLN1,e:51535,h:19369,,313,0.8057,periphilin 1
+T025057,TMEM117,p2@TMEM117,e:84216,h:25308,,734,0.5022,transmembrane protein 117
+T026456,ESPL1,p1@ESPL1,e:9700,h:16856,u:Q14674,702,0.5227,extra spindle pole bodies like 1; separase
+T027208,PTGES3,p5@PTGES3,e:10728,h:16049,u:B4DHP2,625,0.5781,prostaglandin E synthase 3
+T027239,PRIM1,p1@PRIM1,e:5557,h:9369,u:P49642;u:F5H513;u:F8VNY2,209,0.8862,primase (DNA) subunit 1
+T027962,GNS,p1@GNS,e:2799,h:4422,u:P15586;u:B4DTT0;u:B4DYH8;u:F6S8M0;u:F5H260;u:Q7Z3X3,414,0.7314,glucosamine (N-acetyl)-6-sulfatase
+T028060,NCAPD2,p1@NCAPD2,e:9918,h:24305,u:E7EN77;u:F6SSY4;u:F5H431;u:F5GZJ1;u:B3KMS0;u:B3KY03;u:Q15021;u:Q6ZV00,232,0.8642,non-SMC condensin I complex subunit D2
+T028981,C1R,p5@C1R,,h:1246,u:F5H3A3,689,0.5304,complement C1r
+T031815,PSPC1,p1@PSPC1,e:55269,h:20320,u:F5H656,245,0.8548,paraspeckle component 1
+T031931,SKA3,p1@SKA3,e:221150,h:20262,u:F5H8H7;u:F5GWG1,203,0.8875,spindle and kinetochore associated complex subunit 3
+T032475,HMGB1,p1@HMGB1,e:3146,h:4983,u:Q5T7C4;u:P09429;u:Q59GW1,606,0.5915,high mobility group box 1
+T032687,RFC3,p1@RFC3,e:5983,h:9971,u:C9JU95;u:P40938,284,0.8265,replication factor C subunit 3
+T032903,PROSER1,p3@PROSER1,e:80209,h:20291,u:Q86XN7,638,0.5732,proline and serine rich 1
+T032960,SLC25A15,p1@SLC25A15,e:10166,h:10985,u:B4DL63,440,0.7129,solute carrier family 25 member 15
+T033602,FNDC3A,p14@FNDC3A,e:22862,h:20296,u:Q9Y2H6,686,0.5333,fibronectin type III domain containing 3A
+T033629,FNDC3A,p1@FNDC3A,e:22862,h:20296,u:Q9Y2H6,303,0.8126,fibronectin type III domain containing 3A
+T034389,CLN5,p1@CLN5,e:1203,h:2076,u:B4E1V6,16,0.9985,ceroid-lipofuscinosis; neuronal 5
+T034486,NDFIP2,p1@NDFIP2,e:54602,h:18537,,483,0.6859,Nedd4 family interacting protein 2
+T034488,NDFIP2,p6@NDFIP2,e:54602,h:18537,,535,0.6459,Nedd4 family interacting protein 2
+T035689,KIF26A,p2@KIF26A,e:26153,h:20226,u:Q9ULI4,525,0.6562,kinesin family member 26A
+T035792,CDCA4,p1@CDCA4,e:55038,h:14625,u:Q9BXL8,114,0.9467,cell division cycle associated 4
+T036299,RNASE4,p4@RNASE4,e:6038,h:10047,u:P34096,597,0.6056,ribonuclease A family member 4
+T038674,ERO1A,p3@ERO1L,e:30001,h:13280,u:G3V5B3;u:G3V503,868,0.4079,endoplasmic reticulum oxidoreductase 1 alpha
+T038826,WDHD1,p1@WDHD1,e:11169,h:23170,u:O75717;u:C9JW18;u:F6W0U7;u:C9JYB3,677,0.5416,WD repeat and HMG-box DNA binding protein 1
+T039039,ACTR10,p1@ACTR10,e:55860,h:17372,u:Q9NZ32;u:G3V5Y4;u:G3V2Q5;u:G3V4K6,70,0.9746,actin-related protein 10 homolog
+T039795,VTI1B,p1@VTI1B,e:10490,h:17793,u:Q9UEU0,640,0.5697,vesicle transport through interaction with t-SNAREs 1B
+T040026,SLC39A9,p1@SLC39A9,e:55334,h:20182,u:Q9NUM3;u:G3V5J8,310,0.8085,solute carrier family 39 member 9
+T041005,STON2,p10@STON2,e:85439,h:30652,u:G3V2T7;u:Q59H11,602,0.5979,stonin 2
+T041006,STON2,p3@STON2,e:85439,h:30652,u:G3V2T7;u:Q59H11,499,0.6721,stonin 2
+T041396,PPP4R3A,p3@SMEK1,e:55671,h:20219,u:G3V231,281,0.8312,protein phosphatase 4 regulatory subunit 3A
+T042064,CCNK,p1@CCNK,e:8812,h:1596,u:C9JSW4;u:A8MZK4;u:O75909;u:C9JI13;u:G3V5E1;u:G3V235;u:G3V2Q3,472,0.6899,cyclin K
+T042184,CHSY1,p2@CHSY1,e:22856,h:17198,u:Q86X52,403,0.7385,chondroitin sulfate synthase 1
+T042268,NIPA2,p9@NIPA2,e:81614,h:17044,,474,0.6882,non imprinted in Prader-Willi/Angelman syndrome 2
+T043456,RAD51,p1@RAD51,e:5888,h:9817,u:Q06609;u:Q6ZNA8;u:E9PJ30,713,0.5174,RAD51 recombinase
+T043527,OIP5,p1@OIP5,e:11339,h:20300,u:O43482,295,0.8192,Opa interacting protein 5
+T043528,NUSAP1,p1@NUSAP1,e:51203,h:18538,u:E7ERR5,451,0.704,nucleolar and spindle associated protein 1
+T044139,DUT,p1@DUT,e:1854,h:3078,u:P33316,864,0.4113,deoxyuridine triphosphatase
+T044884,POLR2M,p1@POLR2M,e:81488,h:14862,u:E9PP13;u:P0CAP1;u:P0CAP2;u:Q6EEV4,398,0.7403,RNA polymerase II subunit M
+T045052,CCNB2,p4@CCNB2,e:9133,h:1580,u:O95067,570,0.6248,cyclin B2
+T045077,MYO1E,p4@MYO1E,e:4643,h:7599,,296,0.818,myosin IE
+T045080,MYO1E,p1@MYO1E,e:4643,h:7599,u:Q12965;u:Q4KMR3,511,0.6658,myosin IE
+T045502,RBPMS2,p2@RBPMS2,e:348093,h:19098,u:Q6ZRY4,458,0.6969,RNA binding protein with multiple splicing 2
+T046235,HEXA,p2@HEXA,e:3073,h:4878,u:E9PGL4,607,0.591,hexosaminidase subunit alpha
+T046289,NPTN,p1@NPTN,e:27020,h:17867,u:Q9Y639;u:F5GZD0;u:B2RAL7,711,0.5179,neuroplastin
+T046661,UBE2Q2,p8@UBE2Q2,e:92912,h:19248,u:Q8WVN8,805,0.45,ubiquitin conjugating enzyme E2 Q2
+T046720,TSPAN3,p1@TSPAN3,e:10099,h:17752,u:A6NEH4;u:B4DP19,532,0.6491,tetraspanin 3
+T046847,IREB2,p2@IREB2,e:3658,h:6115,,584,0.6114,iron responsive element binding protein 2
+T046860,CHRNA5,p2@CHRNA5,e:1138,h:1959,u:P30532;u:Q6EWN4,681,0.5366,cholinergic receptor nicotinic alpha 5 subunit
+T047006,ZFAND6,p4@ZFAND6,e:54469,h:30164,u:Q6FIF0,845,0.4225,zinc finger AN1-type containing 6
+T047618,FANCI,p1@FANCI,e:55215,h:25568,u:Q9NVI1;u:F8W7R3;u:B3KNW8,384,0.7491,Fanconi anemia complementation group I
+T047958,PRC1,p7@PRC1,e:9055,h:9341,,851,0.4197,protein regulator of cytokinesis 1
+T048516,POLR3K,p1@POLR3K,e:51728,h:14121,u:Q9Y2Y1,520,0.6592,RNA polymerase III subunit K
+T048932,UBE2I,p2@UBE2I,e:7329,h:12485,u:P63279,718,0.5149,ubiquitin conjugating enzyme E2 I
+T048948,GNPTG,p1@GNPTG,e:84572,h:23026,u:E9PQQ5,217,0.8772,N-acetylglucosamine-1-phosphate transferase gamma subunit
+T049346,MRPS34,p5@MRPS34,e:65993,h:16618,,205,0.8873,mitochondrial ribosomal protein S34
+T049357,HAGH,p2@HAGH,e:3029,h:4805,u:Q16775,717,0.515,hydroxyacylglutathione hydrolase
+T049362,RPS15A,p2@RPS15A,e:6210,h:10389,u:P62244;u:B2R4W8,185,0.9048,ribosomal protein S15a
+T049424,GDE1,p1@GDE1,e:51573,h:29644,u:Q9NZC3,105,0.9518,glycerophosphodiester phosphodiesterase 1
+T049931,PLK1,p1@PLK1,e:5347,h:9077,u:Q58A51;u:B4E083;u:P53350,116,0.9447,polo like kinase 1
+T050037,CCNF,p1@CCNF,e:899,h:1591,u:P41002,661,0.5547,cyclin F
+T050428,ATXN2L,p6@ATXN2L,e:11273,h:31326,u:Q8WWM7,441,0.7122,ataxin 2 like
+T050593,KIF22,p1@KIF22,e:3835,h:6391,u:Q14807;u:E7EUJ5,197,0.8938,kinesin family member 22
+T051165,FUS,p1@FUS,e:2521,h:4010,u:A6NMX6;u:B4DR70,8,0.999,FUS RNA binding protein
+T051182,FUS,p6@FUS,e:2521,h:4010,,249,0.8535,FUS RNA binding protein
+T051614,UBALD1,p2@FAM100A,e:124402,h:29576,u:Q8TB05,610,0.5874,UBA like domain containing 1
+T051623,ORC6,p1@ORC6,e:23594,h:17151,u:Q9Y5N6;u:Q9H806,618,0.5823,origin recognition complex subunit 6
+T051703,ITFG1,p1@ITFG1,e:81533,h:30697,u:Q8TB96,207,0.8868,integrin alpha FG-GAP repeat containing 1
+T051706,ITFG1,p3@ITFG1,e:81533,h:30697,u:Q8TB96,174,0.9097,integrin alpha FG-GAP repeat containing 1
+T051739,LONP2,p1@LONP2,e:83752,h:20598,u:Q86WA8;u:E7EN44;u:B7ZKL7,45,0.9881,lon peptidase 2; peroxisomal
+T052310,BBS2,p1@BBS2,e:583,h:967,u:Q9BXC9,148,0.9263,Bardet-Biedl syndrome 2
+T052332,MT1E,p1@MT1E,e:100505584;e:4493,h:7397,u:P04732,723,0.5102,metallothionein 1E
+T052341,MT1M,p3@MT1M,e:4499,h:14296,u:Q8N339,834,0.4324,metallothionein 1M
+T052363,MT1X,p2@MT1X,e:4501,h:7405,u:P80297,819,0.4437,metallothionein 1X
+T052441,ARL2BP,p1@ARL2BP,e:23568,h:17146,u:Q9Y2Y0,833,0.4328,ADP ribosylation factor like GTPase 2 binding protein
+T052884,TK2,p3@TK2,e:7084,h:11831,u:F5GYK4,775,0.4656,thymidine kinase 2; mitochondrial
+T052885,TK2,p2@TK2,e:7084,h:11831,u:F5GYK4,239,0.8613,thymidine kinase 2; mitochondrial
+T052887,TK2,p4@TK2,e:7084,h:11831,u:F5GYK4,599,0.6021,thymidine kinase 2; mitochondrial
+T052888,TK2,p5@TK2,e:7084,h:11831,u:F5GYK4,604,0.5949,thymidine kinase 2; mitochondrial
+T053330,ZFP90,p1@ZFP90,e:146198,h:23329,,748,0.4905,ZFP90 zinc finger protein
+T053531,SF3B3,p1@SF3B3,e:23450,h:10770,u:Q15393;u:A8K6V3,236,0.8623,splicing factor 3b subunit 3
+T053695,AP1G1,p2@AP1G1,e:164,h:555,u:O43747;u:E7EUH1;u:B3KXW5;u:Q8IY97,854,0.4181,adaptor related protein complex 1 gamma 1 subunit
+T054291,CMIP,p19@CMIP,e:80790,h:24319,u:Q8IY22,598,0.6049,c-Maf inducing protein
+T054683,GINS2,p2@GINS2,e:51659,h:24575,u:Q9Y248,756,0.4826,GINS complex subunit 2
+T054684,GINS2,p1@GINS2,e:51659,h:24575,u:Q9Y248,280,0.8315,GINS complex subunit 2
+T054985,ZC3H18,p1@ZC3H18,e:124245,h:25091,u:E7ERS3,224,0.8692,zinc finger CCCH-type containing 18
+T055926,RPA1,p4@RPA1,e:6117,h:10289,u:P27694,144,0.9289,replication protein A1
+T056212,ULK2,p2@ULK2,e:9706,h:13480,u:Q8IYT8,722,0.5115,unc-51 like autophagy activating kinase 2
+T056638,PIGS,p4@PIGS,e:94005,h:14937,u:Q96IR5,504,0.6703,phosphatidylinositol glycan anchor biosynthesis class S
+T056647,SPAG5,p1@SPAG5,e:10615,h:13452,u:F5GZT2;u:Q96R06,307,0.8104,sperm associated antigen 5
+T056950,RNF135,p1@RNF135,e:84282,h:21158,u:Q8IUD6;u:F5GX60;u:B3KV69,639,0.5714,ring finger protein 135
+T059179,GRN,p3@GRN,e:2896,h:4601,u:Q9H8S1,287,0.825,granulin precursor
+T059180,GRN,p2@GRN,e:2896,h:4601,u:Q9H8S1,669,0.5479,granulin precursor
+T059393,KIF18B,p1@KIF18B,e:146909,h:27102,,574,0.6224,kinesin family member 18B
+T059676,NPEPPS,p6@NPEPPS,e:9520,h:7900,u:E9PJY4,376,0.7534,aminopeptidase puromycin sensitive
+T061051,SRSF1,p1@SRSF1,e:6426,h:10780,u:Q07955;u:Q59FA2,269,0.8358,serine and arginine rich splicing factor 1
+T061260,PRR11,p1@PRR11,e:55771,h:25619,u:Q96HE9,254,0.8459,proline rich 11
+T061404,USP32,p5@USP32,e:84669,h:19143,u:Q7Z5T3,668,0.5491,ubiquitin specific peptidase 32
+T061507,BRIP1,p1@BRIP1,e:83990,h:20473,u:Q9BX63,633,0.5756,BRCA1 interacting protein C-terminal helicase 1
+T061721,FTSJ3,p1@FTSJ3,e:117246,h:17136,,455,0.6998,FtsJ homolog 3
+T061722,PSMC5,p1@PSMC5,e:5705,h:9552,u:P62195,137,0.9317,proteasome 26S subunit; ATPase 5
+T061928,FAM64A,p2@FAM64A,e:54478,h:25483,u:Q9BSJ6,846,0.4225,family with sequence similarity 64 member A
+T062124,KPNA2,p2@KPNA2,e:3838,h:6395,u:P52292;u:Q7Z726,694,0.5284,karyopherin subunit alpha 2
+T062125,KPNA2,p1@KPNA2,e:3838,h:6395,u:P52292;u:Q7Z726,44,0.9885,karyopherin subunit alpha 2
+T062126,KPNA2,p3@KPNA2,e:3838,h:6395,u:P52292;u:Q7Z726,358,0.7677,karyopherin subunit alpha 2
+T062713,CTDNEP1,p3@CTDNEP1,e:23399,h:19085,u:O95476,642,0.5695,CTD nuclear envelope phosphatase 1
+T063079,HN1,p1@HN1,e:51155,h:14569,u:F5GY98;u:B8ZZT7,332,0.791,hematological and neurological expressed 1
+T063087,NUP85,p1@NUP85,e:79902,h:8734,u:B4DPW1;u:F5H0B4;u:B4DMQ3,670,0.5476,nucleoporin 85
+T063461,UBE2O,p2@UBE2O,e:63893,h:29554,u:Q9C0C9,745,0.495,ubiquitin conjugating enzyme E2 O
+T063491,TNFSF12,p5@TNFSF12-TNFSF13;p6@TNFSF12,e:407977;e:8742,h:11927;h:33537,u:C0H5Y4;u:O43508;u:Q4ACW9;u:Q8IZK7,221,0.8715,tumor necrosis factor superfamily member 12
+T063932,BIRC5,p1@BIRC5,e:332,h:593,,248,0.8537,baculoviral IAP repeat containing 5
+T063933,BIRC5,p2@BIRC5,e:332,h:593,,828,0.4379,baculoviral IAP repeat containing 5
+T064217,LGALS3BP,p2@LGALS3BP,e:3959,h:6564,u:B4DVE1,687,0.5321,galectin 3 binding protein
+T064218,LGALS3BP,p1@LGALS3BP,e:3959,h:6564,u:B4DVE1,195,0.895,galectin 3 binding protein
+T064961,ANAPC11,p2@ANAPC11,e:51529,h:14452,u:Q9NYG5,850,0.422,anaphase promoting complex subunit 11
+T064964,ANAPC11,p3@ANAPC11,e:51529,h:14452,u:Q9NYG5,62,0.9806,anaphase promoting complex subunit 11
+T066008,USP14,p3@USP14,e:9097,h:12612,u:P54578;u:A6NJA2,555,0.6332,ubiquitin specific peptidase 14
+T066047,SNRPD1,p1@SNRPD1,e:6632,h:11158,u:P62314,341,0.7856,small nuclear ribonucleoprotein D1 polypeptide
+T066846,INO80C,p1@INO80C,e:125476,h:26994,,447,0.707,INO80 complex subunit C
+T067439,SMAD2,p2@SMAD2,e:4087,h:6768,u:Q15796,302,0.8146,SMAD family member 2
+T067440,SMAD2,p3@SMAD2,e:4087,h:6768,u:Q15796,548,0.6382,SMAD family member 2
+T068971,MBP,p15@MBP,e:4155,h:6925,,325,0.7937,myelin basic protein
+T068972,MBP,p14@MBP,e:4155,h:6925,,478,0.6869,myelin basic protein
+T069031,PTPRM,p1@PTPRM,e:5797,h:9675,u:A7MBN1;u:P28827,111,0.9497,protein tyrosine phosphatase; receptor type M
+T069034,PTPRM,p3@PTPRM,e:5797,h:9675,u:A7MBN1;u:P28827,141,0.93,protein tyrosine phosphatase; receptor type M
+T069157,PTPRM,p2@PTPRM,e:5797,h:9675,,253,0.847,protein tyrosine phosphatase; receptor type M
+T069374,C19orf66,p3@C19orf66,e:55337,h:25649,u:Q9NUL5,699,0.5251,chromosome 19 open reading frame 66
+T069756,SPC24,p1@SPC24,e:147841,h:26913,u:E7EWE9,557,0.6317,SPC24; NDC80 kinetochore complex component
+T070178,RNASEH2A,p1@RNASEH2A,e:10535,h:18518,u:O75792,626,0.5773,ribonuclease H2 subunit A
+T070619,ASF1B,p1@ASF1B,e:55723,h:20996,,397,0.7405,anti-silencing function 1B histone chaperone
+T070684,DDX39A,p2@DDX39A,e:10212,h:17821,u:Q8N5M0,156,0.9231,DExD-box helicase 39A
+T070685,DDX39A,p1@DDX39A,e:10212,h:17821,u:O00148,140,0.9305,DExD-box helicase 39A
+T071145,HAUS8,p1@HAUS8,e:93323,h:30532,u:Q9BT25;u:C9JBZ4,32,0.993,HAUS augmin like complex subunit 8
+T071261,SLC27A1,p1@SLC27A1,e:376497,h:10995,u:Q6PCB7,812,0.446,solute carrier family 27 member 1
+T072540,C19orf12,p1@C19orf12,e:83636,h:25443,u:Q9NSK7;u:F8W6J3,71,0.9731,chromosome 19 open reading frame 12
+T072583,AES,p3@AES,e:166,h:307,u:Q08117;u:Q14CJ1;u:Q8WY48,772,0.4673,amino-terminal enhancer of split
+T072585,AES,p6@AES,e:166,h:307,,489,0.68,amino-terminal enhancer of split
+T072587,AES,p4@AES,e:166,h:307,u:Q14CJ1;u:Q8WY48,331,0.7915,amino-terminal enhancer of split
+T072695,ANKRD27,p1@ANKRD27,e:84079,h:25310,u:Q96NW4,61,0.9816,ankyrin repeat domain 27
+T073588,ZNF850,p1@ZNF850,e:342892,h:27994,u:A8MQ14,563,0.626,zinc finger protein 850
+T073892,HNRNPL,p3@HNRNPL,e:3191,h:5045,u:B4DPK8,73,0.9717,heterogeneous nuclear ribonucleoprotein L
+T074126,RPS16,p2@RPS16,e:6217,h:10396,u:Q6IPX4,31,0.9935,ribosomal protein S16
+T074382,LTBP4,p5@LTBP4,e:8425,h:6717,u:F8WAA0;u:Q8N2S1,107,0.9516,latent transforming growth factor beta binding protein 4
+T074413,SNRPA,p2@SNRPA,e:6626,h:11151,u:B4DDC7,735,0.5022,small nuclear ribonucleoprotein polypeptide A
+T074414,SNRPA,p6@SNRPA,e:6626,h:11151,u:B4DDC7,424,0.7242,small nuclear ribonucleoprotein polypeptide A
+T074510,HNRNPUL1,p9@HNRNPUL1,e:11100,h:17011,u:Q9BUJ2,821,0.4425,heterogeneous nuclear ribonucleoprotein U like 1
+T074539,HNRNPUL1,p15@HNRNPUL1,e:11100,h:17011,u:B3KM60,124,0.9404,heterogeneous nuclear ribonucleoprotein U like 1
+T074600,TGFB1,p9@TGFB1,e:7040,h:11766,u:P01137,496,0.6726,transforming growth factor beta 1
+T074911,MEGF8,p2@MEGF8,e:1954,h:3233,u:Q7Z7M0,314,0.8037,multiple EGF like domains 8
+T074914,MEGF8,p4@MEGF8,e:1954,h:3233,u:Q7Z7M0,193,0.8991,multiple EGF like domains 8
+T076042,ZC3H4,p1@ZC3H4,e:23211,h:17808,,121,0.9427,zinc finger CCCH-type containing 4
+T076052,SAE1,p1@SAE1,e:10055,h:30660,u:Q9UBE0;u:F5GXX7;u:G3XAK6;u:B3KNJ4;u:B4DY66;u:B3KMQ2,222,0.8714,SUMO1 activating enzyme subunit 1
+T076279,PLA2G4C,p2@PLA2G4C,e:8605,h:9037,u:Q9UP65;u:B4DI40,335,0.7886,phospholipase A2 group IVC
+T076283,LIG1,p2@LIG1,e:3978,h:6598,u:P18858;u:F5GZ28;u:B4E135,133,0.9356,DNA ligase 1
+T076811,NOSIP,p1@NOSIP,e:51070,h:17946,u:Q9Y314,701,0.5241,nitric oxide synthase interacting protein
+T076906,PNKP,p4@PNKP,e:11284,h:9154,,380,0.7511,polynucleotide kinase 3'-phosphatase
+T078232,UBE2S,p1@UBE2S,e:27338,h:17895,u:Q16763,387,0.7459,ubiquitin conjugating enzyme E2 S
+T078452,ZNF470,p3@ZNF470,e:388566,h:22220,u:Q6ECI4,527,0.6549,zinc finger protein 470
+T079326,PTBP1,p1@PTBP1,e:5725,h:9583,u:P26599;u:A6NLN1;u:Q9BUQ0,69,0.9746,polypyrimidine tract binding protein 1
+T079479,HNRNPM,p2@HNRNPM,e:4670,h:5046,u:P52272,402,0.7387,heterogeneous nuclear ribonucleoprotein M
+T080376,RBM15,p2@RBM15,e:64783,h:14959,,481,0.6861,RNA binding motif protein 15
+T081886,CHD1L,p1@CHD1L,e:9557,h:1916,u:B5MDZ7;u:Q86WJ1;u:E7EP44,829,0.4368,chromodomain helicase DNA binding protein 1 like
+T082357,VPS72,p1@VPS72,e:6944,h:11644,u:A6PW55;u:Q15906,469,0.6905,vacuolar protein sorting 72 homolog
+T082435,MRPL9,p1@MRPL9,e:65005,h:14277,u:Q5SZR1,187,0.9024,mitochondrial ribosomal protein L9
+T082875,ILF2,p2@ILF2,e:3608,h:6037,,86,0.9628,interleukin enhancer binding factor 2
+T083186,CKS1B,p2@CKS1B,e:1163,h:19083,u:Q9BZU3,243,0.8564,CDC28 protein kinase regulatory subunit 1B
+T083419,KIAA0907,p2@KIAA0907,e:22889,h:29145,,428,0.7213,KIAA0907
+T083591,CCT3,p2@CCT3,e:7203,h:1616,u:Q5SZX9,42,0.9895,chaperonin containing TCP1 subunit 3
+T083592,CCT3,p1@CCT3,e:7203,h:1616,u:E9PRN0;u:P49368;u:E9PRM9;u:B4DUR8;u:E9PM09;u:E9PRC8;u:E9PQ35,339,0.7872,chaperonin containing TCP1 subunit 3
+T083738,ISG20L2,p1@ISG20L2,e:81875,h:25745,u:Q9H9L3,840,0.4268,interferon stimulated exonuclease gene 20 like 2
+T083761,HDGF,p7@HDGF,e:3068,h:4856,,343,0.7841,hepatoma-derived growth factor
+T083788,PRCC,p1@PRCC,e:5546,h:9343,,540,0.6434,papillary renal cell carcinoma (translocation-associated)
+T084438,PEA15,p2@PEA15,e:8682,h:8822,u:Q15121;u:B1AKZ4,839,0.4268,phosphoprotein enriched in astrocytes 15
+T084439,PEA15,p26@PEA15,e:8682,h:8822,u:B1AKZ5,418,0.7299,phosphoprotein enriched in astrocytes 15
+T084866,ATF6,p6@ATF6,e:22926,h:791,u:A8K383;u:P18850,657,0.5577,activating transcription factor 6
+T085268,CREG1,p2@CREG1,e:8804,h:2351,u:O75629,494,0.6731,cellular repressor of E1A stimulated genes 1
+T085528,NADK,p5@NADK,e:65220,h:29831,u:O95544,675,0.5443,NAD kinase
+T085802,CENPL,p3@CENPL,e:91687,h:17879,,588,0.6097,centromere protein L
+T085803,CENPL,p2@CENPL,e:91687,h:17879,,490,0.6786,centromere protein L
+T086414,DHX9,p1@DHX9,e:1660,h:2750,u:Q08211,125,0.9403,DExH-box helicase 9
+T086426,LAMC1,p6@LAMC1,e:3915,h:6492,u:P11047;u:Q6NVY8,311,0.8078,laminin subunit gamma 1
+T087744,PHLDA3,p12@PHLDA3,e:23612,h:8934,,779,0.4633,pleckstrin homology like domain family A member 3
+T087901,UBE2T,p1@UBE2T,e:29089,h:25009,u:Q9NPD8,265,0.8388,ubiquitin conjugating enzyme E2 T
+T088174,ATP2B4,p1@ATP2B4,e:493,h:817,u:P23634,477,0.6873,ATPase plasma membrane Ca2+ transporting 4
+T088175,ATP2B4,p4@ATP2B4,e:493,h:817,u:P23634,79,0.9696,ATPase plasma membrane Ca2+ transporting 4
+T088176,ATP2B4,p20@ATP2B4,e:493,h:817,u:P23634,655,0.5578,ATPase plasma membrane Ca2+ transporting 4
+T088177,ATP2B4,p7@ATP2B4,e:493,h:817,u:P23634,856,0.4169,ATPase plasma membrane Ca2+ transporting 4
+T088540,RAB29,p1@RAB7L1,e:8934,h:9789,u:O14966;u:C9JE77;u:E9PL56;u:B2R7I9;u:Q6FGU7;u:B4E1K3,349,0.7797,RAB29; member RAS oncogene family
+T089341,SLC30A1,p4@SLC30A1,e:7779,h:11012,u:Q9Y6M5,721,0.5132,solute carrier family 30 member 1
+T089342,SLC30A1,p1@SLC30A1,e:7779,h:11012,u:Q9Y6M5,26,0.9945,solute carrier family 30 member 1
+T090381,LBR,p2@LBR,e:3930,h:6518,u:Q14739,487,0.6813,lamin B receptor
+T090493,PARP1,p1@PARP1,e:142,h:270,u:Q5VX84;u:P09874,809,0.4484,poly(ADP-ribose) polymerase 1
+T090880,GALNT2,p1@GALNT2,e:2590,h:4124,u:Q10471;u:F5GYB2,363,0.7644,polypeptide N-acetylgalactosaminyltransferase 2
+T091044,KDM1A,p1@KDM1A,e:23028,h:29079,u:F6S0T5,68,0.9761,lysine demethylase 1A
+T091502,MTR,p3@MTR,e:4548,h:7468,,559,0.6291,5-methyltetrahydrofolate-homocysteine methyltransferase
+T092203,ZNF695,p3@ZNF695,e:57116,h:30954,,270,0.8343,zinc finger protein 695
+T092609,AUNIP,p1@C1orf135,e:79000,h:28363,u:Q9H7T9;u:C9EI59,1,1,aurora kinase A and ninein interacting protein
+T093133,RCC1,p2@RCC1,e:1104,h:1913,u:P18754;u:E9PAT9;u:Q5T081,50,0.9875,regulator of chromosome condensation 1
+T093134,RCC1,p3@RCC1,e:1104,h:1913,u:C9JW69,25,0.995,regulator of chromosome condensation 1
+T093202,SRSF4,p1@SRSF4,e:6429,h:10786,u:E7EMJ8;u:F6T1J1,814,0.4455,serine and arginine rich splicing factor 4
+T093327,SNRNP40,p1@SNRNP40,e:9410,h:30857,u:Q96DI7;u:A0MNP2,34,0.993,small nuclear ribonucleoprotein U5 subunit 40
+T093328,SNRNP40,p2@SNRNP40,e:9410,h:30857,u:B4DQJ1,549,0.6377,small nuclear ribonucleoprotein U5 subunit 40
+T093535,RBBP4,p1@RBBP4,e:5928,h:9887,u:E9PIC4;u:E9PNS2;u:B4DRT0,691,0.5291,RB binding protein 4; chromatin remodeling factor
+T093772,SFPQ,p5@SFPQ,e:6421,h:10774,u:P23246,379,0.7514,splicing factor proline and glutamine rich
+T093775,SFPQ,p1@SFPQ,e:6421,h:10774,u:P23246;u:Q86VG2,844,0.4235,splicing factor proline and glutamine rich
+T094071,CDCA8,p1@CDCA8,e:55143,h:14629,u:Q53HL2,304,0.8115,cell division cycle associated 8
+T094097,C1orf122,p5@C1orf122,e:127687,h:24789,,206,0.8868,chromosome 1 open reading frame 122
+T094098,C1orf122,p1@C1orf122,e:127687,h:24789,,246,0.8548,chromosome 1 open reading frame 122
+T094789,KIF2C,p1@KIF2C,e:11004,h:6393,u:B7Z6Q6,228,0.8667,kinesin family member 2C
+T094869,TOE1,p5@TOE1,e:114034,h:15954,,875,0.403,target of EGR1; member 1 (nuclear)
+T094972,RAD54L,p3@RAD54L,e:8438,h:9826,u:Q92698,426,0.7232,RAD54-like (S. cerevisiae)
+T094973,RAD54L,p1@RAD54L,e:8438,h:9826,u:G3V1N0,422,0.727,RAD54-like (S. cerevisiae)
+T095080,STIL,p2@STIL,e:6491,h:10879,,43,0.9885,SCL/TAL1 interrupting locus
+T095081,STIL,p1@STIL;p1@TAL1,e:6491;e:6886,h:10879;h:11556,u:Q15468;u:Q5T0C7,294,0.8198,SCL/TAL1 interrupting locus
+T095084,CMPK1,p1@CMPK1,e:51727,h:18170,u:Q5T0D2;u:P30085;u:E9PGI8;u:B2R6S5,395,0.7415,cytidine/uridine monophosphate kinase 1
+T095309,ORC1,p1@ORC1,e:4998,h:8487,u:Q13415,653,0.5605,origin recognition complex subunit 1
+T095310,ORC1,p2@ORC1,e:4998,h:8487,u:Q13415,578,0.6176,origin recognition complex subunit 1
+T095314,PRPF38A,p1@PRPF38A,e:84950,h:25930,,7,0.999,pre-mRNA processing factor 38A
+T095351,ZYG11A,p2@ZYG11A,e:440590,h:32058,u:Q6WRX3,872,0.4041,zyg-11 family member A; cell cycle regulator
+T095394,MAGOH,p1@MAGOH,e:4116,h:6815,u:B1ARP8;u:P61326,569,0.6248,mago homolog; exon junction complex core component
+T095439,NDC1,p2@TMEM48,e:55706,h:25525,,407,0.7363,NDC1 transmembrane nucleoporin
+T095515,TTC4,p1@TTC4,e:7268,h:12394,u:Q5TA95,608,0.5892,tetratricopeptide repeat domain 4
+T095839,TM2D1,p1@TM2D1,e:83941,h:24142,u:A6NMG4,220,0.8743,TM2 domain containing 1
+T096007,PGM1,p5@PGM1,e:5236,h:8905,u:F5H857,152,0.925,phosphoglucomutase 1
+T096852,FUBP1,p1@FUBP1,e:8880,h:4004,u:Q96AE4;u:F8W7W2;u:B4E0X8;u:B4DT31,382,0.7505,far upstream element binding protein 1
+T097888,RPL5,p4@RPL5,e:6125,h:10360,u:A2RUM7;u:P46777,445,0.7091,ribosomal protein L5
+T098701,SNX5,p2@SNX5,e:27131,h:14969,u:Q5QPE4;u:Q9Y5X3,436,0.7137,sorting nexin 5
+T099271,SNRPB,p2@SNRPB,e:6628,h:11153,,454,0.6998,small nuclear ribonucleoprotein polypeptides B and B1
+T099355,GINS1,p1@GINS1,e:9837,h:28980,u:Q14691;u:E7EQ95,164,0.9208,GINS complex subunit 1
+T099539,TPX2,p1@TPX2,e:22974,h:1249,u:Q9ULW0;u:Q96RR5,502,0.671,TPX2; microtubule nucleation factor
+T100486,BLCAP,p1@BLCAP,e:10904,h:1055,u:A2A2K9;u:A2A2K8,609,0.5884,bladder cancer associated protein
+T100654,FAM83D,p1@FAM83D,e:81610,h:16122,,444,0.7094,family with sequence similarity 83 member D
+T100871,MYBL2,p2@MYBL2,e:4605,h:7548,u:P10244,500,0.6715,MYB proto-oncogene like 2
+T100872,MYBL2,p1@MYBL2,e:4605,h:7548,u:F8W6N6,149,0.9259,MYB proto-oncogene like 2
+T101302,TBC1D20,p1@TBC1D20,e:128637,h:16133,u:Q96BZ9;u:B9A6M1,788,0.4581,TBC1 domain family member 20
+T101418,ZNF335,p1@ZNF335,e:63925,h:15807,u:Q9H4Z2;u:Q8IW09,708,0.5199,zinc finger protein 335
+T101707,PRNP,p9@PRNP,e:5621,h:9449,u:P04156,167,0.9174,prion protein
+T101708,PRNP,p7@PRNP,e:5621,h:9449,u:P04156,820,0.4435,prion protein
+T102571,AURKA,p1@AURKA,e:6790,h:11393,u:O14965;u:A3KFJ0;u:Q5QPD4;u:A3KFJ2;u:Q5QPD1,268,0.8374,aurora kinase A
+T102663,RAE1,p1@RAE1,e:8480,h:9828,u:P78406;u:E9PPG9;u:E9PQ57,556,0.6328,ribonucleic acid export 1
+T104383,CCT8,p1@CCT8,e:10694,h:1623,u:B4DQH4;u:P50990,696,0.5258,chaperonin containing TCP1 subunit 8
+T104569,MIS18A,p1@MIS18A,e:54069,h:1286,u:Q9NYP9,33,0.993,MIS18 kinetochore protein A
+T104616,C21orf59,p2@C21orf59,e:56683,h:1301,u:D3DSE6;u:F5GXV2,419,0.7287,chromosome 21 open reading frame 59
+T104635,PAXBP1,p3@GCFC1,e:94104,h:13579,u:Q9Y5B6;u:Q8N6E6,66,0.9791,PAX3 and PAX7 binding protein 1
+T104723,GART,p1@GART,e:2618,h:4163,,480,0.6866,phosphoribosylglycinamide formyltransferase; phosphoribosylglycinamide synthetase; phosphoribosylaminoimidazole synthetase
+T104730,GART,p3@GART,e:2618,h:4163,u:P22102,406,0.7368,phosphoribosylglycinamide formyltransferase; phosphoribosylglycinamide synthetase; phosphoribosylaminoimidazole synthetase
+T105248,HMGN1,p2@HMGN1,e:3150,h:4984,,289,0.8231,high mobility group nucleosome binding domain 1
+T105600,WDR4,p1@WDR4,e:10785,h:12756,u:P57081,237,0.8618,WD repeat domain 4
+T105641,U2AF1,p1@U2AF1,7307,12453,Q701P4;Q71RF1;F8WDB0;Q7Z780;Q01081;Q69YM7,0,1,U2 small nuclear RNA auxiliary factor 1
+T105642,U2AF1,p2@U2AF1,e:7307,h:12453,u:Q01081,448,0.7069,U2 small nuclear RNA auxiliary factor 1
+T105722,RRP1B,p1@RRP1B,e:23076,h:23818,u:Q14684,375,0.7544,ribosomal RNA processing 1B
+T105763,RRP1,p1@RRP1,e:8568,h:18785,u:F8W984;u:D6RE82;u:P56182;u:Q96J73,576,0.6179,ribosomal RNA processing 1
+T105797,PWP2,p1@PWP2,e:5822,h:9711,u:C9J544;u:Q15269,757,0.4808,PWP2 periodic tryptophan protein homolog (yeast)
+T106002,FAM207A,p2@FAM207A,e:85395,h:15811,u:Q9NSI2,467,0.6913,family with sequence similarity 207 member A
+T106003,FAM207A,p1@FAM207A,e:85395,h:15811,u:Q9NSI2;u:C9JJU7,225,0.8678,family with sequence similarity 207 member A
+T106303,YBEY,p3@YBEY,e:54059,h:1299,,365,0.7634,ybeY metallopeptidase (putative)
+T106310,C21orf58,p1@C21orf58,e:54058,h:1300,u:P58505;u:Q8N7N9;u:Q0VAL8;u:C9JH41,334,0.79,chromosome 21 open reading frame 58
+T106575,UFD1L,p2@UFD1L,e:7353,h:12520,u:C9J7C8,539,0.6444,ubiquitin fusion degradation 1 like (yeast)
+T106669,RANBP1,p2@RANBP1,e:5902,h:9847,,498,0.6722,RAN binding protein 1
+T106670,RANBP1,p1@RANBP1,e:5902,h:9847,u:P43487;u:C9JJ34;u:B7Z6U1;u:Q53EY3,560,0.6284,RAN binding protein 1
+T107438,CHEK2,p1@CHEK2,e:11200,h:16627,u:O96017;u:C9JFD7;u:B7ZBF8;u:B7ZBF2;u:F8WCV2,292,0.8202,checkpoint kinase 2
+T108174,MCM5,p1@MCM5,e:4174,h:6948,u:B1AHB1;u:B1AHA9;u:E7EQY5;u:F8WFD7;u:F8WBR1;u:B1AHB0;u:P33992,161,0.9217,minichromosome maintenance complex component 5
+T108400,EIF3D,p2@EIF3D,e:8664,h:3278,u:A8MWD3,568,0.625,eukaryotic translation initiation factor 3 subunit D
+T109221,PHF5A,p1@PHF5A,e:84844,h:18000,u:Q7RTV0,100,0.9557,PHD finger protein 5A
+T109989,CRELD2,p2@CRELD2,e:79174,h:28150,u:Q6UXH1,617,0.5829,cysteine rich with EGF like domains 2
+T110033,MLC1,p12@MLC1,e:23209,h:17082,u:Q15049,586,0.6111,megalencephalic leukoencephalopathy with subcortical cysts 1
+T110246,RABL2B,p1@RABL2B,e:11158,h:9800,u:F2Z2T3;u:F2Z3J7,49,0.9875,RAB; member of RAS oncogene family-like 2B
+T110247,RABL2B,p2@RABL2B,e:11158,h:9800,u:A8MXF6;u:Q9UNT1,118,0.9443,RAB; member of RAS oncogene family-like 2B
+T110726,NCK2,p1@NCK2,e:8440,h:7665,u:O43639,707,0.5204,NCK adaptor protein 2
+T112072,POLR2D,p2@POLR2D,e:5433,h:9191,u:Q96FU3,181,0.9065,RNA polymerase II subunit D
+T112148,RAB6C,p1@RAB6C,e:150786;e:84084,h:16525,u:Q9H0N0,516,0.6622,RAB6C; member RAS oncogene family
+T112626,SPOPL,p3@SPOPL,e:339745,h:27934,u:F8WBB7,171,0.9145,speckle type BTB/POZ protein like
+T114499,SPC25,p1@SPC25,e:57405,h:24031,u:Q9HBM1,38,0.9901,SPC25; NDC80 kinetochore complex component
+T116164,DNAJC10,p1@DNAJC10,e:54431,h:24637,u:Q8IXB1;u:F8W884;u:Q71S60,211,0.8854,DnaJ heat shock protein family (Hsp40) member C10
+T116194,NUP35,p1@NUP35,e:129401,h:29797,u:B4DP57,377,0.753,nucleoporin 35
+T116267,ITGAV,p2@ITGAV,e:3685,h:6150,u:B4DYQ7;u:B7ZLX0;u:P06756,300,0.8147,integrin subunit alpha V
+T116501,SLC40A1,p5@SLC40A1,e:30061,h:10909,u:E7ES28,817,0.4448,solute carrier family 40 member 1
+T116890,CCDC150,p1@CCDC150,e:284992,h:26834,u:B4DRE1;u:B4E060,803,0.4505,coiled-coil domain containing 150
+T117729,KLF7,p3@KLF7,e:8609,h:6350,u:O75840,514,0.663,Kruppel like factor 7
+T117796,METTL21A,p2@METTL21A,e:151194,h:30476,,593,0.6081,methyltransferase like 21A
+T118278,ATIC,p1@ATIC,e:471,h:794,u:F2Z3E8;u:E9PBU3;u:F5GWY2,87,0.9622,5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase
+T118901,TMBIM1,p2@TMBIM1,e:64114,h:23410,u:C9JAK9;u:C9JEN3;u:C9JI44;u:B3KSM0;u:Q969X1,614,0.5844,transmembrane BAX inhibitor motif containing 1
+T118965,CNOT9,p2@RQCD1,e:9125,h:10445,u:Q92600;u:B7Z1E5,212,0.8821,CCR4-NOT transcription complex subunit 9
+T119425,ACSL3,p5@ACSL3,e:2181,h:3570,u:C9JC11,579,0.6176,acyl-CoA synthetase long-chain family member 3
+T120141,COPS7B,p1@COPS7B,e:64708,h:16760,u:Q9H9Q2,616,0.583,COP9 signalosome subunit 7B
+T120383,HJURP,p2@HJURP,e:55355,h:25444,,552,0.6339,Holliday junction recognition protein
+T120384,HJURP,p1@HJURP,e:55355,h:25444,u:Q8NCD3;u:C9JWC4;u:F8WCV1,155,0.9232,Holliday junction recognition protein
+T121125,HDLBP,p3@HDLBP,e:3069,h:4857,u:C9JHS7,627,0.5769,high density lipoprotein binding protein
+T121137,SEPT2,p5@SEPT2,e:4735,h:7729,u:C9JSE7,158,0.9224,septin 2
+T121351,CENPO,p1@CENPO,e:79172,h:28152,u:Q9BU64,274,0.8331,centromere protein O
+T121691,PPM1G,p2@PPM1G,e:5496,h:9278,u:Q96IN7,183,0.9059,protein phosphatase; Mg2+/Mn2+ dependent 1G
+T121697,PPM1G,p1@PPM1G,e:5496,h:9278,u:O15355,6,0.999,protein phosphatase; Mg2+/Mn2+ dependent 1G
+T121954,CLIP4,p4@CLIP4,e:79745,h:26108,u:E9PBB1,827,0.4385,CAP-Gly domain containing linker protein family member 4
+T121956,CLIP4,p1@CLIP4,e:79745,h:26108,u:Q8N3C7,15,0.999,CAP-Gly domain containing linker protein family member 4
+T121957,CLIP4,p5@CLIP4,e:79745,h:26108,u:Q8N3C7,215,0.8792,CAP-Gly domain containing linker protein family member 4
+T122153,EHD3,p5@EHD3,e:30845,h:3244,u:B4DFR5;u:Q9NZN3,714,0.5174,EH domain containing 3
+T122326,RPS7,p3@RPS7,e:6201,h:10440,u:P62081,590,0.6092,ribosomal protein S7
+T122550,RMDN2,p1@FAM82A1,e:151393,h:26567,u:Q96LZ7,252,0.8475,regulator of microtubule dynamics 2
+T122634,SRSF7,p1@SRSF7,e:6432,h:10789,u:C9JAB2;u:G5E9M3,80,0.9676,serine and arginine rich splicing factor 7
+T123166,EPAS1,p5@EPAS1,e:2034,h:3374,u:Q99814;u:B3KW07,741,0.499,endothelial PAS domain protein 1
+T123326,MSH6,p2@MSH6,e:2956,h:7329,u:B4DF41,329,0.7927,mutS homolog 6
+T123523,ERLEC1,p1@ERLEC1,e:27248,h:25222,u:Q96DZ1;u:B5MC72,17,0.9985,endoplasmic reticulum lectin 1
+T123698,RTN4,p5@RTN4,e:57142,h:14085,u:F8W914,659,0.5563,reticulon 4
+T123719,RPS27A,p3@RPS27A,e:6233,h:10417,u:P62979,503,0.6706,ribosomal protein S27a
+T123721,RPS27A,p1@RPS27A,e:6233,h:10417,u:P62979;u:B2RDW1,381,0.7506,ribosomal protein S27a
+T124123,CCT4,p2@CCT4,e:10575,h:1617,,835,0.4309,chaperonin containing TCP1 subunit 4
+T124809,PCBP1,p4@PCBP1,e:5093,h:8647,u:Q15365;u:Q53SS8,600,0.5997,poly(rC) binding protein 1
+T124862,SNRPG,p2@SNRPG,e:6637,h:11163,u:C9JVQ0,19,0.998,small nuclear ribonucleoprotein polypeptide G
+T124866,FAM136A,p1@FAM136A,e:84908,h:25911,u:E7EQY1,29,0.9935,family with sequence similarity 136 member A
+T125081,CCT7,p1@CCT7,e:10574,h:1622,u:A8MWI8;u:F8WAM2;u:B8ZZC9;u:F8WBP8;u:F5GZK5;u:B7Z1C9,866,0.4102,chaperonin containing TCP1 subunit 7
+T125629,KCMF1,p1@KCMF1,e:56888,h:20589,u:Q9P0J7,13,0.999,potassium channel modulatory factor 1
+T125709,TMEM150A,p3@TMEM150A,e:129303,h:24677,u:Q86TG1,870,0.4047,transmembrane protein 150A
+T125719,USP39,p1@USP39,e:10713,h:20071,u:Q53GS9;u:B9A018;u:G5E9H0;u:F8WC91,305,0.8109,ubiquitin specific peptidase 39
+T126228,ITGB1BP1,p2@ITGB1BP1,e:9270,h:23927,u:C9J6Y2;u:C9J5T5,427,0.723,integrin subunit beta 1 binding protein 1
+T126379,SNRNP200,p2@SNRNP200,e:23020,h:30859,u:O75643;u:A2RRQ7,94,0.9602,small nuclear ribonucleoprotein U5 subunit 200
+T126388,NCAPH,p1@NCAPH,e:23397,h:1112,u:Q15003;u:B4E189;u:C9J470;u:C9JZP1,442,0.7121,non-SMC condensin I complex subunit H
+T126517,YWHAQ,p4@YWHAQ,e:10971,h:12854,u:P27348,421,0.7284,tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta
+T126785,FANCD2,p2@FANCD2,e:2177,h:3585,u:Q9BXW9,778,0.4634,Fanconi anemia complementation group D2
+T126786,FANCD2,p1@FANCD2,e:2177,h:3585,u:Q9BXW9;u:F8WE37,355,0.7718,Fanconi anemia complementation group D2
+T126975,TATDN2,p2@TATDN2,e:9797,h:28988,u:Q93075,649,0.5647,TatD DNase domain containing 2
+T127019,ALCAM,p1@ALCAM,e:214,h:400,u:Q13740,742,0.4983,activated leukocyte cell adhesion molecule
+T128173,FAM162A,p2@FAM162A,e:26355,h:17865,u:F8W7Q4;u:Q96A26;u:Q9H2P1,432,0.7183,family with sequence similarity 162 member A
+T128606,RAF1,p1@RAF1,e:5894,h:9829,u:B4E0X2,98,0.9582,Raf-1 proto-oncogene; serine/threonine kinase
+T128627,MCM2,p1@MCM2,e:4171,h:6944,u:F8WDM3;u:F5H3V0;u:F5H1E9;u:P49736,18,0.998,minichromosome maintenance complex component 2
+T128720,RUVBL1,p1@RUVBL1,e:8607,h:10474,u:Q9Y265,113,0.9476,RuvB like AAA ATPase 1
+T128815,RAB7A,p4@RAB7A,e:7879,h:9788,,463,0.6931,RAB7A; member RAS oncogene family
+T129382,PPP2R3A,p1@PPP2R3A,e:5523,h:9307,u:B4DNU1;u:Q06190,852,0.4197,protein phosphatase 2 regulatory subunit B''alpha
+T129409,MSL2,p2@MSL2,e:55167,h:25544,u:C9IZG7,200,0.8899,male-specific lethal 2 homolog (Drosophila)
+T129509,MRAS,p4@MRAS,e:22808,h:7227,u:B4DIK0;u:C9J601,346,0.782,muscle RAS oncogene homolog
+T131788,NCEH1,p1@NCEH1,e:57552,h:29260,,486,0.6828,neutral cholesterol ester hydrolase 1
+T131789,NCEH1,p2@NCEH1,e:57552,h:29260,u:Q6PIU2;u:F5H7K4,308,0.8104,neutral cholesterol ester hydrolase 1
+T131936,ZMAT3,p1@ZMAT3,e:64393,h:29983,,4,1,zinc finger matrin-type 3
+T131968,ACTL6A,p1@ACTL6A,e:86,h:24124,u:C9JQT2;u:O96019,317,0.8029,actin like 6A
+T132570,TRA2B,p3@TRA2B,e:6434,h:10781,,739,0.5007,transformer 2 beta homolog (Drosophila)
+T132573,TRA2B,p2@TRA2B,e:6434,h:10781,,330,0.7917,transformer 2 beta homolog (Drosophila)
+T133319,LSG1,p1@LSG1,e:55341,h:25652,u:F8WFC6,338,0.7877,large 60S subunit nuclear export GTPase 1
+T133709,SGO1,p1@SGOL1,e:151648,h:25088,u:Q5FBB7;u:B5BUA4,526,0.6555,shugoshin 1
+T133793,UBE2E2,p4@UBE2E2,e:7325,h:12478,u:Q96LR5,733,0.5025,ubiquitin conjugating enzyme E2 E2
+T133794,UBE2E2,p1@UBE2E2,e:7325,h:12478,u:C9J180,857,0.4168,ubiquitin conjugating enzyme E2 E2
+T133796,UBE2E2,p3@UBE2E2,e:7325,h:12478,u:Q96LR5;u:F8WF15,88,0.9621,ubiquitin conjugating enzyme E2 E2
+T134641,ZNF621,p2@ZNF621,e:285268,h:24787,u:Q6ZSS3;u:C9JZC2,431,0.7184,zinc finger protein 621
+T134660,CTNNB1,p48@CTNNB1,e:1499,h:2514,u:P35222,873,0.4038,catenin beta 1
+T134737,SEC22C,p1@SEC22C,e:9117,h:16828,u:Q9BRL7;u:F8VQT7;u:C9J9A4;u:C9JNW1;u:F8WDR5;u:F8WBN1;u:F5H0H7,146,0.9278,SEC22 homolog C; vesicle trafficking protein
+T134869,TCAIM,p1@C3orf23,e:285343,h:25241,,101,0.9551,T-cell activation inhibitor; mitochondrial
+T135324,SMARCC1,p1@SMARCC1,e:6599,h:11104,u:Q92922;u:F8WE13;u:Q58EY4,293,0.8199,SWI/SNF related; matrix associated; actin dependent regulator of chromatin subfamily c member 1
+T135660,NICN1,p1@NICN1,e:84276,h:18317,u:Q9BSH3;u:B4DX77;u:B2R7Q3,521,0.6582,nicolin 1
+T135937,C3orf18,p1@C3orf18,e:51161,h:24837,u:Q9UK00;u:F8WCC4;u:C9JNP0,14,0.999,chromosome 3 open reading frame 18
+T136046,PARP3,p2@PARP3,e:10039,h:273,,320,0.8,poly(ADP-ribose) polymerase family member 3
+T136583,SLMAP,p1@SLMAP,e:7871,h:16643,,348,0.7802,sarcolemma associated protein
+T136949,PRICKLE2,p1@PRICKLE2,e:166336,h:20340,u:C9JY03,536,0.6456,prickle planar cell polarity protein 2
+T137081,SUCLG2,p1@SUCLG2,e:8801,h:11450,u:Q96I99;u:E9PDQ8;u:F5H4S7,582,0.6143,succinate-CoA ligase GDP-forming beta subunit
+T137111,EOGT,p1@C3orf64,e:285203,h:28526,u:F5H225;u:C9J4G5;u:B4E243,261,0.8414,EGF domain specific O-linked N-acetylglucosamine transferase
+T137892,CRYBG3,p2@CRYBG3,e:131544,h:34427,u:B4DLE8,106,0.9516,crystallin beta-gamma domain containing 3
+T137896,CRYBG3,p1@CRYBG3,e:131544,h:34427,u:B4DLE8,188,0.9016,crystallin beta-gamma domain containing 3
+T138182,CRELD1,p2@CRELD1,e:78987,h:14630,u:Q96HD1,725,0.5092,cysteine rich with EGF like domains 1
+T138318,H2AFZ,p1@H2AFZ,e:3015,h:4741,,871,0.4046,H2A histone family member Z
+T138881,GAR1,p1@GAR1,e:54433,h:14264,u:Q9NY12,74,0.9717,GAR1 ribonucleoprotein
+T139374,MAD2L1,p2@MAD2L1,e:4085,h:6763,,359,0.7668,MAD2 mitotic arrest deficient-like 1 (yeast)
+T139375,MAD2L1,p1@MAD2L1,e:4085,h:6763,u:Q8IZX3;u:D6RJE3;u:Q13257,55,0.9826,MAD2 mitotic arrest deficient-like 1 (yeast)
+T139461,CCNA2,p1@CCNA2,e:890,h:1578,u:P20248,634,0.5748,cyclin A2
+T140760,CC2D2A,p2@CC2D2A,e:57545,h:29253,u:D6RB72;u:E7EP21;u:D6R9V3,785,0.4589,coiled-coil and C2 domain containing 2A
+T140997,FBXL5,p2@FBXL5,e:26234,h:13602,u:D6R9Y4;u:D6RBW7,831,0.436,F-box and leucine rich repeat protein 5
+T141006,CTSO,p2@CTSO,e:1519,h:2542,,273,0.8337,cathepsin O
+T141786,TACC3,p1@TACC3,e:10460,h:11524,u:F8WC55;u:C9JWI7;u:Q9Y6A5,37,0.991,transforming acidic coiled-coil containing protein 3
+T142169,NEIL3,p5@NEIL3,e:55247,h:24573,u:Q8TAT5,603,0.5951,nei like DNA glycosylase 3
+T142639,TLR3,p1@TLR3,e:7098,h:11849,u:O15455;u:D6RA51;u:F5H833;u:E6Y0F1,652,0.5606,toll like receptor 3
+T142648,CYP4V2,p1@CYP4V2,e:285440,h:23198,u:Q6UWV9,210,0.8856,cytochrome P450 family 4 subfamily V member 2
+T142651,CYP4V2,p2@CYP4V2,e:285440,h:23198,,255,0.8447,cytochrome P450 family 4 subfamily V member 2
+T144463,EVC,p1@EVC,e:2121,h:3497,u:P57679,342,0.7851,EvC ciliary complex subunit 1
+T144479,PAICS,p3@PAICS,e:10606,h:8587,u:P22234;u:E9PBS1;u:D6RF62,749,0.4898,phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase
+T145662,USO1,p1@USO1,e:8615,h:30904,u:O60763,276,0.8327,USO1 vesicle transport factor
+T145725,SCARB2,p5@SCARB2,e:950,h:1665,u:D6RDG0,108,0.9507,scavenger receptor class B member 2
+T145726,SCARB2,p2@SCARB2,e:950,h:1665,u:E7EM68;u:D6RDG0,56,0.9826,scavenger receptor class B member 2
+T145727,SCARB2,p18@SCARB2,e:950,h:1665,u:E7EM68,267,0.8376,scavenger receptor class B member 2
+T145731,SCARB2,p1@SCARB2,e:950,h:1665,u:Q14108,2,1,scavenger receptor class B member 2
+T145732,SCARB2,p7@SCARB2,e:950,h:1665,u:Q14108,227,0.8668,scavenger receptor class B member 2
+T145733,SCARB2,p3@SCARB2,e:950,h:1665,u:Q14108,47,0.988,scavenger receptor class B member 2
+T145734,SCARB2,p4@SCARB2,e:950,h:1665,u:Q14108;u:B4DKD8;u:E7EM68;u:Q53Y63,824,0.4404,scavenger receptor class B member 2
+T146271,HNRNPD,p7@HNRNPD,e:3184,h:5036,u:Q14103,22,0.996,heterogeneous nuclear ribonucleoprotein D
+T146272,HNRNPD,p8@HNRNPD,e:3184,h:5036,u:Q14103,130,0.9374,heterogeneous nuclear ribonucleoprotein D
+T147114,RAP1GDS1,p1@RAP1GDS1,e:5910,h:9859,u:E9PH06;u:Q499L7;u:D6RC85;u:D6RC12;u:D6RHZ7;u:P52306;u:Q4QQI8;u:B3KNU0;u:Q9BUX6;u:Q6U7G8,754,0.4843,Rap1 GTPase-GDP dissociation stimulator 1
+T147215,PAM,p43@PAM,e:5066,h:8596,,758,0.4808,peptidylglycine alpha-amidating monooxygenase
+T147217,PAM,p1@PAM,e:5066,h:8596,,122,0.9417,peptidylglycine alpha-amidating monooxygenase
+T147580,SLC25A46,p1@SLC25A46,e:91137,h:25198,u:Q96AG3;u:B4DTA3;u:B3KRE6,437,0.7135,solute carrier family 25 member 46
+T148176,CSNK1G3,p2@CSNK1G3,e:1456,h:2456,,390,0.7448,casein kinase 1 gamma 3
+T148259,GRAMD3,p2@GRAMD3,e:65983,h:24911,u:D6RFH3;u:D6R9P9;u:F5H6Z9,443,0.71,GRAM domain containing 3
+T148286,LMNB1,p1@LMNB1,e:4001,h:6637,u:P20700;u:E9PBF6;u:B4DZT3,724,0.51,lamin B1
+T148742,C5orf15,p1@C5orf15,e:56951,h:20656,u:B4DPV8,589,0.6095,chromosome 5 open reading frame 15
+T148897,C5orf24,p1@C5orf24,e:134553,h:26746,u:Q7Z6I8,736,0.5022,chromosome 5 open reading frame 24
+T149240,KIF20A,p3@KIF20A,e:10112,h:9787,u:B4DL79,732,0.5027,kinesin family member 20A
+T149241,KIF20A,p1@KIF20A,e:10112,h:9787,u:B4DL79,112,0.9487,kinesin family member 20A
+T149255,CDC25C,p1@CDC25C,e:995,h:1727,u:P30307,182,0.906,cell division cycle 25C
+T149496,CYSTM1,p3@C5orf32,e:84418,h:30239,u:Q9H1C7,298,0.8154,cysteine rich transmembrane module containing 1
+T149807,NDFIP1,p1@NDFIP1,e:80762,h:17592,u:Q9BT67,291,0.821,Nedd4 family interacting protein 1
+T149808,NDFIP1,p5@NDFIP1,e:80762,h:17592,,126,0.9399,Nedd4 family interacting protein 1
+T150696,NDST1,p7@NDST1,e:3340,h:7680,u:E5RGN9,566,0.6254,N-deacetylase and N-sulfotransferase 1
+T150934,ANXA6,p1@ANXA6,e:309,h:544,u:A6NN80;u:E7EMC6;u:E5RFF0;u:E5RI05;u:E5RJF5;u:E5RIU8;u:E5RK69;u:B7Z582;u:P08133;u:Q6ZP35,662,0.5542,annexin A6
+T150961,GM2A,p5@GM2A,e:2760,h:4367,u:P17900,530,0.6522,GM2 ganglioside activator
+T150964,GM2A,p4@GM2A,e:2760,h:4367,u:P17900,737,0.502,GM2 ganglioside activator
+T151250,MRPL22,p1@MRPL22,e:29093,h:14480,u:A6NGJ8;u:Q9NWU5;u:E7ESL0,166,0.9179,mitochondrial ribosomal protein L22
+T151563,PTTG1,p2@PTTG1,e:9232,h:9690,u:O95997;u:Q9NZH5,841,0.426,pituitary tumor-transforming 1
+T152567,NOP16,p1@NOP16,e:51491,h:26934,u:E7ERV7;u:D6RC60;u:D6RG37;u:D6RIC3,186,0.9044,NOP16 nucleolar protein
+T152840,NHP2,p1@NHP2,e:55651,h:14377,u:D6RC52;u:D6RCB9,700,0.5249,NHP2 ribonucleoprotein
+T152941,HNRNPH1,p1@HNRNPH1,e:3187,h:5041,u:D6RIT2;u:D6RIU0;u:D6R9D3;u:D6RDU3;u:E5RGV0,631,0.5758,heterogeneous nuclear ribonucleoprotein H1
+T154945,DEPDC1B,p1@DEPDC1B,e:55789,h:24902,u:Q8WUY9;u:B4DUT4;u:D6RIB0;u:F5H072,547,0.6383,DEP domain containing 1B
+T155325,CCNB1,p1@CCNB1,e:891,h:1579,u:E9PC90,226,0.8676,cyclin B1
+T155923,SCAMP1,p6@SCAMP1,,h:10563,,656,0.5577,secretory carrier membrane protein 1
+T157484,BEND3,p2@BEND3,e:57673,h:23040,u:Q5T5X7,796,0.4551,BEN domain containing 3
+T158729,HINT3,p1@HINT3,e:135114,h:18468,u:Q9NQE9,630,0.5764,histidine triad nucleotide binding protein 3
+T158742,CENPW,p2@CENPW,e:387103,h:21488,u:Q5EE01,115,0.9448,centromere protein W
+T158743,CENPW,p1@CENPW,e:387103,h:21488,u:Q5EE01,177,0.9076,centromere protein W
+T159182,TBC1D7,p1@TBC1D7,e:51256,h:21066,u:Q96MB8;u:Q2TU37;u:Q9P0N9;u:Q5SZL8;u:Q5SZL4;u:Q5SZL5;u:Q5SZL6;u:Q53F44;u:Q5JPB9,41,0.9896,TBC1 domain family member 7
+T160526,GINM1,p2@C6orf72,e:116254,h:21074,u:Q9NU53;u:Q5TFA5,747,0.4928,glycoprotein integral membrane 1
+T160761,JARID2,p3@JARID2,e:3720,h:6196,u:Q92833,333,0.7903,jumonji and AT-rich interaction domain containing 2
+T160762,JARID2,p1@JARID2,e:3720,h:6196,u:Q92833,247,0.8537,jumonji and AT-rich interaction domain containing 2
+T160859,FBXO5,p3@FBXO5,e:26271,h:13584,u:Q9UKT4,439,0.7132,F-box protein 5
+T161051,DTNBP1,p4@DTNBP1,e:84062,h:17328,u:D6RB80,259,0.8433,dystrobrevin binding protein 1
+T161291,EZR,p3@EZR,e:7430,h:12691,u:P15311,117,0.9447,ezrin
+T161511,TCP1,p1@TCP1,e:6950,h:11655,u:F5GYL4;u:F5GZ03;u:F5GZI8;u:F5H282,869,0.405,t-complex 1
+T161513,TCP1,p3@TCP1,e:6950,h:11655,u:E7EQR6;u:P17987,760,0.4798,t-complex 1
+T161514,MRPL18,p5@MRPL18,e:29074,h:14477,,830,0.4366,mitochondrial ribosomal protein L18
+T162139,C6orf120,p1@C6orf120,e:387263,h:21247,u:Q7Z4R8,139,0.9307,chromosome 6 open reading frame 120
+T162212,PSMB1,p1@PSMB1,e:5689,h:9537,u:P20618,58,0.9821,proteasome subunit beta 1
+T162278,NUP153,p9@NUP153,e:9972,h:8062,u:P49790,409,0.7338,nucleoporin 153
+T162279,NUP153,p4@NUP153,e:9972,h:8062,u:F6QR24,172,0.9136,nucleoporin 153
+T162285,NUP153,p1@NUP153,e:9972,h:8062,u:P49790;u:Q4LE47,67,0.9761,nucleoporin 153
+T162757,GMNN,p1@GMNN,e:51053,h:17493,u:O75496,505,0.6698,geminin; DNA replication inhibitor
+T162995,HIST4H4,p4@HIST1H4A;p4@HIST1H4B;p4@HIST1H4D;p4@HIST1H4E;p4@HIST1H4F;p4@HIST1H4H;p4@HIST1H4I;p4@HIST1H4J;p4@HIST1H4K;p4@HIST1H4L;p4@HIST2H4A;p4@HIST2H4B;p4@HIST4H4;p5@HIST1H4C,e:121504;e:554313;e:8294;e:8359;e:8360;e:8361;e:8362;e:8363;e:8364;e:8365;e:8366;e:8367;e:8368;e:8370,h:20510;h:29607;h:4781;h:4782;h:4783;h:4784;h:4785;h:4787;h:4788;h:4789;h:4790;h:4791;h:4793;h:4794,u:P62805,561,0.6274,histone cluster 4 H4
+T163150,HIST1H1B,p1@HIST1H1B,e:3009,h:4719,u:P16401,507,0.6678,histone cluster 1 H1 family member b
+T163537,TRIM39,p1@TRIM39,e:56658,h:10065,u:A2AAZ5,715,0.5167,tripartite motif containing 39
+T163566,GNL1,p3@GNL1,e:2794,h:4413,u:A2AB27,461,0.6962,G protein nucleolar 1 (putative)
+T163648,NRM,p1@NRM,e:11270,h:8003,u:Q8IXM6;u:B0S7R0,836,0.4288,nurim (nuclear envelope membrane protein)
+T164318,FKBPL,p2@FKBPL,e:63943,h:13949,u:Q9UIM3,688,0.5311,FK506 binding protein like
+T165231,SRSF3,p1@SRSF3,e:6428,h:10785,u:B4E241;u:P84103,46,0.988,serine and arginine rich splicing factor 3
+T165679,OARD1,p6@C6orf130,e:221443,h:21257,u:Q9Y530,550,0.6356,O-acyl-ADP-ribose deacylase 1
+T165786,USP49,p1@USP49,e:25862,h:20078,u:Q70CQ1,646,0.5675,ubiquitin specific peptidase 49
+T165791,BYSL,p1@BYSL,e:705,h:1157,,364,0.7636,bystin like
+T166176,SLC29A1,p1@SLC29A1,e:2030,h:11003,u:Q99808,399,0.7399,solute carrier family 29 member 1 (Augustine blood group)
+T166622,RPP40,p1@RPP40,e:10799,h:20992,u:O75818;u:F8WC38,674,0.5443,ribonuclease P/MRP subunit p40
+T166675,MCM3,p1@MCM3,e:4172,h:6945,u:P25205;u:E9PF11,160,0.9218,minichromosome maintenance complex component 3
+T168319,PNRC1,p4@PNRC1,e:10957,h:17278,,184,0.9053,proline rich nuclear receptor coactivator 1
+T168614,MEPCE,p2@MEPCE,e:56257,h:20247,u:D6W5V7,260,0.8423,methylphosphate capping enzyme
+T168717,GNB2,p15@GNB2,e:2783,h:4398,u:P62879,464,0.6924,G protein subunit beta 2
+T169025,COX19,p1@COX19,e:90639,h:28074,u:F8WEL9,577,0.6178,COX19; cytochrome c oxidase assembly factor
+T169251,PUS7,p1@PUS7,e:54517,h:26033,u:Q96PZ0;u:B3KRB2;u:B3KY42,832,0.4357,pseudouridylate synthase 7 (putative)
+T169886,MDFIC,p5@MDFIC,e:29969,h:28870,u:Q9P1T7,585,0.6111,MyoD family inhibitor domain containing
+T169888,MDFIC,p3@MDFIC,e:29969,h:28870,u:Q9P1T7,438,0.7134,MyoD family inhibitor domain containing
+T170118,C7orf50,p4@C7orf50,e:84310,h:22421,u:Q9BRJ6,790,0.4578,chromosome 7 open reading frame 50
+T170367,TMEM106B,p1@TMEM106B,e:54664,h:22407,u:C9J998,837,0.428,transmembrane protein 106B
+T171342,NUP205,p1@NUP205,e:23165,h:18658,u:Q92621;u:F8WCW4;u:E7ET25;u:F2Z2D0,411,0.7326,nucleoporin 205
+T172888,GALNT11,p1@GALNT11,e:63917,h:19875,u:Q8NCW6;u:C9JMT8;u:C9JPR8;u:B7Z3L9;u:B7Z5G5;u:B3KWF4,163,0.9215,polypeptide N-acetylgalactosaminyltransferase 11
+T173650,ITGB8,p5@ITGB8,e:3696,h:6163,u:P26012;u:Q9BUG9,272,0.8341,integrin subunit beta 8
+T173651,ITGB8,p15@ITGB8,e:3696,h:6163,u:P26012;u:Q9BUG9,460,0.6962,integrin subunit beta 8
+T173907,MRM2,p1@FTSJ2,e:29960,h:16352,u:Q9UI43;u:E7ETL2,231,0.865,mitochondrial rRNA methyltransferase 2
+T174052,EIF3B,p1@EIF3B,e:8662,h:3280,u:F8W8C8;u:P55884;u:C9JZG1;u:Q86UM1,417,0.73,eukaryotic translation initiation factor 3 subunit B
+T174215,HNRNPA2B1,p1@HNRNPA2B1,e:3181,h:5033,u:P22626,768,0.4711,heterogeneous nuclear ribonucleoprotein A2/B1
+T175584,UBE2D4,p1@UBE2D4,e:51619,h:21647,u:Q9Y2X8;u:F2Z3J6;u:F8WEH7;u:Q9UQL0,198,0.8923,ubiquitin conjugating enzyme E2 D4 (putative)
+T175734,H2AFV,p1@H2AFV,e:94239,h:20664,u:A6NN01;u:Q71UI9;u:A6NKY0;u:A8MQC5;u:C9J386;u:C9J0D1,743,0.4965,H2A histone family member V
+T176303,EGFR,p1@EGFR,e:1956,h:3236,u:Q504U8,468,0.6912,epidermal growth factor receptor
+T176450,GBAS,p1@GBAS,e:2631,h:4179,u:O75323;u:C9IYJ3;u:F8WBI5,684,0.5354,glioblastoma amplified sequence
+T176451,GBAS,p5@GBAS,e:2631,h:4179,u:C9K068,136,0.9322,glioblastoma amplified sequence
+T176452,GBAS,p2@GBAS,e:2631,h:4179,u:C9K068,813,0.446,glioblastoma amplified sequence
+T177132,RFC2,p1@RFC2,e:5982,h:9970,u:F8WC37;u:F8WDC9;u:P35250;u:Q75MT5,103,0.9526,replication factor C subunit 2
+T178665,SDHAF3,p3@ACN9,e:57001,h:21752,,703,0.5222,succinate dehydrogenase complex assembly factor 3
+T178906,ZNF3,p3@ZNF3,e:7551,h:13089,,849,0.4221,zinc finger protein 3
+T178924,MCM7,p1@MCM7,e:4176,h:6950,u:F5H4S2,89,0.9617,minichromosome maintenance complex component 7
+T178961,GAL3ST4,p1@GAL3ST4,e:79690,h:24145,u:C9IZ77,651,0.5634,galactose-3-O-sulfotransferase 4
+T180216,DSCC1,p1@DSCC1,e:79075,h:24453,u:Q9BVC3,189,0.9013,DNA replication and sister chromatid cohesion 1
+T180398,WDYHV1,p2@WDYHV1,e:55093,h:25490,,738,0.5012,WDYHV motif containing 1
+T180530,NSMCE2,p1@NSMCE2,e:286053,h:26513,u:Q96MF7;u:E5RHW9;u:E5RK09,619,0.5813,NSE2/MMS21 homolog; SMC5-SMC6 complex SUMO ligase
+T181879,CHRAC1,p1@CHRAC1,e:54108,h:13544,u:Q9NRG0;u:E5RGS9,396,0.7408,chromatin accessibility complex 1
+T182256,PUF60,p1@PUF60,e:22827,h:17042,u:E9PQ56;u:E9PL19,858,0.4167,poly(U) binding splicing factor 60
+T182514,RECQL4,p1@RECQL4,e:9401,h:9949,u:O94761;u:E9PIW8,774,0.4667,RecQ like helicase 4
+T182667,VPS37A,p1@VPS37A,e:137492,h:24928,u:E5RJX6;u:E5RJ10;u:E5RG91,405,0.7368,VPS37A; ESCRT-I subunit
+T183226,SORBS3,p35@SORBS3,e:10174,h:30907,u:O60504,843,0.4237,sorbin and SH3 domain containing 3
+T183713,DPYSL2,p1@DPYSL2,e:1808,h:3014,,727,0.5065,dihydropyrimidinase like 2
+T184118,SARAF,p17@TMEM66,e:51669,h:28789,u:E5RFJ9,362,0.7652,store-operated calcium entry associated regulatory factor
+T184922,RNF170,p1@RNF170,e:81790,h:25358,u:Q96K19;u:E9PP55,35,0.993,ring finger protein 170
+T185072,MCM4,p1@MCM4,e:4173,h:6947,u:P33991;u:E7EM48;u:E5RG53,457,0.6973,minichromosome maintenance complex component 4
+T186313,MSC,p6@MSC,e:9242,h:7321,,842,0.4249,musculin
+T186316,MSC,p5@MSC,e:9242,h:7321,u:O60682,791,0.4572,musculin
+T187243,PDP1,p3@PDP1,e:54704,h:9279,u:Q6P1N1;u:Q9P0J1,623,0.581,pyruvate dehyrogenase phosphatase catalytic subunit 1
+T187532,LAPTM4B,p1@LAPTM4B,e:55353,h:13646,,641,0.5695,lysosomal protein transmembrane 4 beta
+T187562,RPL30,p7@RPL30,e:6156,h:10333,,459,0.6968,ribosomal protein L30
+T187589,NIPAL2,p3@NIPAL2,e:79815,h:25854,u:Q9H841;u:A2RTY8,825,0.4395,NIPA like domain containing 2
+T187666,NCBP1,p6@NCBP1,e:4686,h:7658,u:Q09161,596,0.6058,nuclear cap binding protein subunit 1
+T188697,POLE3,p3@POLE3,e:54107,h:13546,u:Q9NRF9,353,0.7741,DNA polymerase epsilon 3; accessory subunit
+T189435,NEK6,p2@NEK6,e:10783,h:7749,,64,0.9801,NIMA related kinase 6
+T189558,PPP6C,p3@PPP6C,e:5537,h:9323,u:Q5T1S7,802,0.4507,protein phosphatase 6 catalytic subunit
+T190034,GOLGA2,p2@GOLGA2,e:2801,h:4425,u:B7ZC06,497,0.6725,golgin A2
+T190037,COQ4,p3@COQ4,e:51117,h:19693,u:Q9Y3A0,761,0.4796,coenzyme Q4
+T190459,EXOSC2,p1@EXOSC2,e:23404,h:17097,u:A3KFL1;u:A3KFL4;u:A3KFL2;u:B4DKK6;u:Q13868,612,0.5864,exosome component 2
+T190576,UCK1,p2@UCK1,e:83549,h:14859,u:Q5JT10;u:Q5JT09,712,0.5177,uridine-cytidine kinase 1
+T190740,GTF3C5,p2@GTF3C5,e:9328,h:4668,u:Q5T7U4,162,0.9217,general transcription factor IIIC subunit 5
+T190742,GTF3C5,p1@GTF3C5,e:9328,h:4668,u:Q5T7U1;u:C9J393,82,0.9661,general transcription factor IIIC subunit 5
+T192816,GALT,p4@GALT,e:2592,h:4135,,865,0.4108,galactose-1-phosphate uridylyltransferase
+T192978,CCDC107,p1@CCDC107,e:203260,h:28465,u:Q8WV48;u:F8W8S5,145,0.9283,coiled-coil domain containing 107
+T193394,AK3,p1@AK3,e:50808,h:17376,u:E7ET30;u:Q9UIJ7,394,0.7418,adenylate kinase 3
+T193444,PLGRKT,p5@C9orf46,e:55848,h:23633,u:Q9HBL7,542,0.6419,plasminogen receptor with a C-terminal lysine
+T193798,KLF9,p15@KLF9,e:687,h:1123,u:Q13886,554,0.6335,Kruppel like factor 9
+T193801,KLF9,p8@KLF9,e:687,h:1123,u:Q13886,470,0.6905,Kruppel like factor 9
+T194088,NMRK1,p2@C9orf95,e:54981,h:26057,u:Q9NWW6;u:B3KN26,706,0.5214,nicotinamide riboside kinase 1
+T194375,HNRNPK,p1@HNRNPK,e:3190,h:5044,u:Q5T6W2,671,0.5459,heterogeneous nuclear ribonucleoprotein K
+T194694,CKS2,p1@CKS2,e:1164,h:2000,u:P33552;u:Q6FGI9,764,0.4749,CDC28 protein kinase regulatory subunit 2
+T194897,CENPP,p3@CENPP,e:401541,h:32933,u:Q6IPU0,770,0.4676,centromere protein P
+T196170,RNF128,p2@RNF128,e:79589,h:21153,u:Q8TEB7,240,0.8609,ring finger protein 128; E3 ubiquitin protein ligase
+T196192,MORC4,p2@MORC4,e:79710,h:23485,u:Q8TE76;u:A1YR24;u:A1YR23;u:B4DTP6,319,0.8001,MORC family CW-type zinc finger 4
+T196704,SLC25A43,p1@SLC25A43,e:203427,h:30557,u:B4E1P8,301,0.8146,solute carrier family 25 member 43
+T198042,HMGB3,p1@HMGB3,e:3149,h:5004,u:O15347;u:Q7Z684,683,0.5354,high mobility group box 3
+T198158,TREX2,p1@HAUS7;p1@TREX2,e:11219;e:55559,h:12270;h:32979,u:Q9BQ50;u:Q99871,508,0.6663,three prime repair exonuclease 2
+T198309,HCFC1,p1@HCFC1,e:3054,h:4839,u:P51610,373,0.7545,host cell factor C1
+T198533,DKC1,p2@DKC1,e:1736,h:2890,,244,0.8555,dyskerin pseudouridine synthase 1
+T198930,MBTPS2,p1@MBTPS2,e:51360,h:15455,u:O43462,109,0.9506,membrane bound transcription factor peptidase; site 2
+T200111,PQBP1,p2@PQBP1,e:10084,h:9330,u:O60828,168,0.9172,polyglutamine binding protein 1
+T200112,PQBP1,p1@PQBP1,e:10084,h:9330,u:O60828,372,0.7551,polyglutamine binding protein 1
+T200455,GNL3L,p1@GNL3L,e:54552,h:25553,u:Q9NVN8;u:Q05DU1,52,0.9861,G protein nucleolar 3 like
+T200603,SPIN4,p1@SPIN4,e:139886,h:27040,u:Q56A73,119,0.9442,spindlin family member 4
+T064958,ALYREF,p1@ALYREF,e:10189,h:19071,u:Q86V81;u:E9PB61,5,0.999,Aly/REF export factor
+T042191,SNRPA1,p1@SNRPA1,e:6627,h:11152,u:P09661;u:O95485,9,0.999,small nuclear ribonucleoprotein polypeptide A'
+T146273,HNRNPD,p1@HNRNPD,e:3184,h:5036,u:Q14103;u:D6RD83;u:D6RBP9;u:F5H6R6,10,0.999,heterogeneous nuclear ribonucleoprotein D
+T104950,CHAF1B,p1@CHAF1B,e:8208,h:1911,u:Q13112,11,0.999,chromatin assembly factor 1 subunit B
+T082876,ILF2,p1@ILF2,e:3608,h:6037,,12,0.999,interleukin enhancer binding factor 2
+T110222,ARSA,p1@ARSA,e:410,h:713,u:P15289;u:F8WCC8;u:B4DVI5;u:B7XD04,20,0.9975,arylsulfatase A
+T083375,YY1AP1,p3@YY1AP1,e:55249,h:30935,u:Q9H869,21,0.997,YY1 associated protein 1
+T043053,SPRED1,p2@SPRED1,e:161742,h:20249,u:Q7Z699,23,0.996,sprouty related EVH1 domain containing 1
+T094518,PPCS,p1@PPCS,e:79717,h:25686,u:Q5VVM2;u:Q5VVM3;u:Q9HAB8,24,0.9955,phosphopantothenoylcysteine synthetase
+T124863,SNRPG,p1@SNRPG,e:6637,h:11163,u:C9JVQ0;u:P62308,27,0.994,small nuclear ribonucleoprotein polypeptide G
+T074197,FBL,p3@FBL,e:2091,h:3599,u:Q96BS4,30,0.9935,fibrillarin
+T152846,HNRNPAB,p1@HNRNPAB,e:3182,h:5034,u:D6RBZ0;u:D6RD18,40,0.99,heterogeneous nuclear ribonucleoprotein A/B
+T089940,IARS2,p1@IARS2,e:55699,h:29685,u:Q9NSE4;u:F6SBX2,48,0.9876,isoleucyl-tRNA synthetase 2; mitochondrial
+T184743,GINS4,p1@GINS4,e:84296,h:28226,u:E5RFF9,51,0.9875,GINS complex subunit 4
+T143696,RPL9,p1@RPL9,e:6133,h:10369,u:P32969;u:B4E1M5;u:D6RAN4;u:E7ESE0;u:Q53Z07,57,0.9826,ribosomal protein L9
+T007810,RNLS,p1@RNLS,e:55328,h:25641,u:Q5VYX0,59,0.982,renalase; FAD dependent amine oxidase
+T074415,SNRPA,p4@SNRPA,e:6626,h:11151,u:B4DDC7,60,0.9816,small nuclear ribonucleoprotein polypeptide A
+T057516,CTNS,p2@CTNS,e:1497,h:2518,u:F5H4I4;u:F8W6Z1;u:C9JMM9,63,0.9801,cystinosin; lysosomal cystine transporter
+T055908,COPS3,p4@COPS3,e:8533,h:2239,u:C9JLV5,65,0.9796,COP9 signalosome subunit 3
+T089039,PINK1,p1@PINK1,e:65018,h:14581,u:Q9BXM7,72,0.9726,PTEN induced putative kinase 1
+T082031,SF3B4,p1@SF3B4,e:10262,h:10771,u:Q5SZ64,75,0.9711,splicing factor 3b subunit 4
+T002501,OPTN,p1@OPTN,e:10133,h:17142,u:Q96CV9,77,0.9706,optineurin
+T145188,GRSF1,p8@GRSF1,e:2926,h:4610,u:Q12849,81,0.9662,G-rich RNA sequence binding factor 1
+T111983,IWS1,p2@IWS1,e:55677,h:25467,,83,0.9646,IWS1; SUPT6H interacting protein
+T086033,RCC2,p4@RCC2,e:55920,h:30297,u:Q9P258,84,0.9642,regulator of chromosome condensation 2
+T105233,PSMG1,p1@PSMG1,e:8624,h:3043,u:F8WBH7,90,0.9613,proteasome assembly chaperone 1
+T105249,HMGN1,p5@HMGN1,e:3150,h:4984,,92,0.9607,high mobility group nucleosome binding domain 1
+T082365,PSMD4,p1@PSMD4,e:5710,h:9561,,93,0.9603,proteasome 26S subunit; non-ATPase 4
+T091835,SRSF10,p1@SRSF10,e:100505793;e:10772,h:16713,u:O75494,95,0.9596,serine and arginine rich splicing factor 10
+T060493,ACSF2,p2@ACSF2,e:80221,h:26101,u:B4DFQ6;u:D6RF15;u:E9PF16;u:D6RF87,96,0.9593,acyl-CoA synthetase family member 2
+T052886,TK2,p1@TK2,e:7084,h:11831,u:F5GYK4,97,0.9592,thymidine kinase 2; mitochondrial
+T148898,C5orf24,p2@C5orf24,e:134553,h:26746,,99,0.9568,chromosome 5 open reading frame 24
+T147244,PAM,p5@PAM,e:5066,h:8596,u:P19021,102,0.9547,peptidylglycine alpha-amidating monooxygenase
+T199863,RBM10,p1@RBM10,e:8241,h:9896,,104,0.9521,RNA binding motif protein 10
+T063207,RECQL5,p2@RECQL5,e:9400,h:9950,,120,0.9434,RecQ like helicase 5
+T164947,RPS10,p2@RPS10,e:6204,h:10383,u:P46783,127,0.9398,ribosomal protein S10
+T176601,ZNF107,p2@ZNF107,e:51427,h:12887,u:Q9UII5,129,0.9377,zinc finger protein 107
+T079062,C3,p2@C3,e:718,h:1318,u:P01024,131,0.9357,complement C3
+T112077,POLR2D,p1@POLR2D,e:5433,h:9191,u:O15514;u:E9PHV4,132,0.9356,RNA polymerase II subunit D
+T129708,ZBTB38,p1@ZBTB38,e:253461,h:26636,u:D6RC86;u:D6RJE1,134,0.9339,zinc finger and BTB domain containing 38
+T074201,FBL,p1@FBL,e:2091,h:3599,u:P22087,135,0.9337,fibrillarin
+T077777,MYADM,p2@MYADM,e:91663,h:7544,u:C9JJV6,138,0.9313,myeloid associated differentiation marker
+T030585,SNRPF,p1@SNRPF,e:6636,h:11162,u:F8W0W6,142,0.9299,small nuclear ribonucleoprotein polypeptide F
+T083742,ISG20L2,p2@ISG20L2,e:81875,h:25745,u:Q9H9L3,143,0.9292,interferon stimulated exonuclease gene 20 like 2
+T121958,CLIP4,p6@CLIP4,e:79745,h:26108,u:Q8N3C7,147,0.9268,CAP-Gly domain containing linker protein family member 4
+T045053,CCNB2,p1@CCNB2,e:9133,h:1580,,150,0.9259,cyclin B2
+T039452,SGPP1,p1@SGPP1,e:81537,h:17720,u:Q9BX95,151,0.9253,sphingosine-1-phosphate phosphatase 1
+T180082,MED30,p2@MED30,e:90390,h:23032,,153,0.9243,mediator complex subunit 30
+T064153,USP36,p2@USP36,e:57602,h:20062,u:Q9P275;u:Q8IXW9,154,0.9239,ubiquitin specific peptidase 36
+T092766,HMGN2,p1@HMGN2,e:3151,h:4986,,157,0.9228,high mobility group nucleosomal binding domain 2
+T032231,MTIF3,p2@MTIF3,e:219402,h:29788,u:Q9H2K0,159,0.9224,mitochondrial translational initiation factor 3
+T112088,SAP130,p1@SAP130,e:79595,h:29813,u:C9JTJ5;u:Q96DP1,165,0.918,Sin3A associated protein 130
+T105942,SUMO3,p3@SUMO3,e:6612,h:11124,u:A8MUA9,169,0.9159,small ubiquitin-like modifier 3
+T019402,ST5,p1@ST5,e:6764,h:11350,u:E9PNM8;u:E9PJY5;u:E9PKM1;u:P78524,170,0.9154,suppression of tumorigenicity 5
+T013616,TCP11L1,p4@TCP11L1,e:55346,h:25655,u:Q9NUJ3,173,0.9111,t-complex 11 like 1
+T016324,STIP1,p2@STIP1,e:10963,h:11387,u:F5H783,175,0.9094,stress induced phosphoprotein 1
+T093491,HDAC1,p1@HDAC1,e:3065,h:4852,u:Q5TEE2,176,0.9078,histone deacetylase 1
+T178599,SLC25A13,p1@SLC25A13,e:10165,h:10983,u:Q9UJS0,178,0.9075,solute carrier family 25 member 13
+T189487,PSMB7,p1@PSMB7,e:5695,h:9544,u:Q99436;u:Q5TBG5;u:B4E0P1;u:E9KL30,179,0.9073,proteasome subunit beta 7
+T108651,NOL12,p2@NOL12,,h:28585,,180,0.9067,nucleolar protein 12
+T037855,PPP2R3C,p3@PPP2R3C,e:55012,h:17485,u:G3V228,190,0.8999,protein phosphatase 2 regulatory subunit B''gamma
+T057940,ORMDL3,p2@ORMDL3,e:94103,h:16038,u:Q8N138,191,0.8999,ORMDL sphingolipid biosynthesis regulator 3
+T086066,RASAL2,p1@RASAL2,e:9462,h:9874,u:F8W755,194,0.8968,RAS protein activator like 2
+T074199,FBL,p4@FBL,e:2091,h:3599,u:Q96BS4,196,0.8945,fibrillarin
+T061050,SRSF1,p2@SRSF1,e:6426,h:10780,u:Q07955;u:Q59FA2,201,0.888,serine and arginine rich splicing factor 1
+T132572,TRA2B,p1@TRA2B,e:6434,h:10781,,204,0.8873,transformer 2 beta homolog (Drosophila)
+T038313,LRR1,p1@LRR1,e:122769,h:19742,u:Q6P393,208,0.8868,leucine rich repeat protein 1
+T200602,SPIN4,p11@SPIN4,e:139886,h:27040,u:Q56A73,213,0.8812,spindlin family member 4
+T041552,GOLGA5,p1@GOLGA5,e:9950,h:4428,u:E7EQP0;u:Q8TBA6,219,0.8749,golgin A5
+T125332,SEMA4F,p1@SEMA4F,e:10505,h:10734,u:F8WCP8;u:O95754,223,0.871,ssemaphorin 4F
+T050892,DCTPP1,p1@DCTPP1,e:79077,h:28777,u:Q9H773,230,0.8657,dCTP pyrophosphatase 1
+T160760,JARID2,p2@JARID2,e:3720,h:6196,u:Q92833,233,0.8641,jumonji and AT-rich interaction domain containing 2
+T188694,POLE3,p1@POLE3,e:54107,h:13546,u:Q9NRF9,235,0.8625,DNA polymerase epsilon 3; accessory subunit
+T169895,MDFIC,p4@MDFIC,e:29969,h:28870,u:C9J104,238,0.8617,MyoD family inhibitor domain containing
+T074592,TMEM91,p10@TMEM91,e:641649,h:32393,u:F5GWC9;u:Q6P434,242,0.8588,transmembrane protein 91
+T061672,DCAF7,p2@DCAF7,e:10238,h:30915,u:B4E039,250,0.8498,DDB1 and CUL4 associated factor 7
+T062665,ACADVL,p1@ACADVL,e:37,h:92,,256,0.8443,acyl-CoA dehydrogenase; very long chain
+T082924,GATAD2B,p2@GATAD2B,e:57459,h:30778,u:Q8WXI9,257,0.8442,GATA zinc finger domain containing 2B
+T041333,C14orf159,p1@C14orf159,e:80017,h:20498,u:E5RJ62;u:E5RGN8;u:E5RK14;u:E5RIU5;u:E5RK56;u:E5RJD1,258,0.8435,chromosome 14 open reading frame 159
+T178112,ANKIB1,p2@ANKIB1,e:54467,h:22215,u:Q9P2G1,262,0.8401,ankyrin repeat and IBR domain containing 1
+T030586,SNRPF,p2@SNRPF,e:6636,h:11162,u:P62306,263,0.8393,small nuclear ribonucleoprotein polypeptide F
+T081548,MRPL20,p2@MRPL20,e:55052,h:14478,,266,0.8384,mitochondrial ribosomal protein L20
+T193795,KLF9,p3@KLF9,e:687,h:1123,u:Q13886,271,0.8342,Kruppel like factor 9
+T099720,MAPRE1,p2@MAPRE1,e:22919,h:6890,u:Q15691,275,0.8328,microtubule associated protein RP/EB family member 1
+T034489,NDFIP2,p2@NDFIP2,e:54602,h:18537,,277,0.832,Nedd4 family interacting protein 2
+T047770,ARPIN,p1@C15orf38,e:348110,h:28782,u:Q7Z6K5,279,0.8318,actin-related protein 2/3 complex inhibitor
+T160860,FBXO5,p1@FBXO5,e:26271,h:13584,u:Q9UKT4,282,0.83,F-box protein 5
+T099272,SNRPB,p1@SNRPB,e:6628,h:11153,u:A8MT02,283,0.8291,small nuclear ribonucleoprotein polypeptides B and B1
+T034485,NDFIP2,p5@NDFIP2,e:54602,h:18537,,285,0.8256,Nedd4 family interacting protein 2
+T037624,AP4S1,p3@AP4S1,e:11154,h:575,u:Q9Y587,286,0.8253,adaptor related protein complex 4 sigma 1 subunit
+T069636,ILF3,p1@ILF3,e:3609,h:6038,u:Q12906;u:C9JFV5;u:G5E9M5,288,0.8237,interleukin enhancer binding factor 3
+T031930,SKA3,p2@SKA3,e:221150,h:20262,,290,0.8228,spindle and kinetochore associated complex subunit 3
+T019717,SRSF8,p1@SRSF8,,h:16988,,297,0.8157,serine and arginine rich splicing factor 8
+T121192,DTYMK,p3@DTYMK,e:1841,h:3061,,299,0.8154,deoxythymidylate kinase
+T100204,ATRN,p1@ATRN,e:8455,h:885,u:O75882;u:B4DZ36,309,0.8094,attractin
+T068321,KDSR,p2@KDSR,e:2531,h:4021,u:Q06136,312,0.8068,3-ketodihydrosphingosine reductase
+T082404,POGZ,p1@POGZ,e:23126,h:18801,u:Q7Z3K3;u:B4DTP8;u:B7ZBY5;u:B4DYL9;u:E9PM80,315,0.8034,pogo transposable element with ZNF domain
+T133078,CCDC50,p1@CCDC50,e:152137,h:18111,u:Q8IVM0,316,0.8034,coiled-coil domain containing 50
+T188679,PRPF4,p2@PRPF4,e:9128,h:17349,,322,0.7986,pre-mRNA processing factor 4
+T074538,HNRNPUL1,p51@HNRNPUL1,e:11100,h:17011,u:B3KM60,324,0.7967,heterogeneous nuclear ribonucleoprotein U like 1
+T064524,EIF4A3,p3@EIF4A3,e:9775,h:18683,,328,0.7928,eukaryotic translation initiation factor 4A3
+T038738,BMP4,p4@BMP4,e:652,h:1071,u:P12644,336,0.7881,bone morphogenetic protein 4
+T121619,SLC5A6,p2@SLC5A6,e:8884,h:11041,u:E7ENN0,340,0.7863,solute carrier family 5 member 6
+T193395,AK3,p2@AK3,e:50808,h:17376,u:E7ET30;u:Q9UIJ7,344,0.7836,adenylate kinase 3
+T065079,CENPX,p2@STRA13,e:201254,h:11422,,345,0.783,centromere protein X
+T095366,SCP2,p2@SCP2,e:6342,h:10606,u:A6NM69;u:C9JC79;u:E9PLD1;u:B4DHP6;u:Q6NXF4;u:P22307,350,0.7797,sterol carrier protein 2
+T013678,CD59,p3@CD59,e:966,h:1689,u:P13987;u:Q6FHM9,351,0.7763,CD59 molecule
+T027301,LRP1,p4@LRP1,e:4035,h:6692,u:Q7Z7K9,352,0.7763,LDL receptor related protein 1
+T141376,NAF1,p1@NAF1,e:92345,h:25126,u:Q96HR8;u:E9PAZ2,354,0.7734,nuclear assembly factor 1 ribonucleoprotein
+T146358,LIN54,p3@LIN54,e:132660,h:25397,,356,0.7711,lin-54 DREAM MuvB core complex component
+T105254,HMGN1,p4@HMGN1,e:3150,h:4984,,357,0.7678,high mobility group nucleosome binding domain 1
+T184367,FBXO25,p1@FBXO25,e:26260,h:13596,u:Q8TCJ0,360,0.7668,F-box protein 25
+T020133,WASHC3,p1@CCDC53,e:51019,h:24256,u:F5H2P1;u:F5GXZ4;u:F5H0A7;u:F5GWI9,361,0.7654,WASH complex subunit 3
+T035747,SIVA1,p1@SIVA1,e:10572,h:17712,u:G3V3U1,366,0.7622,SIVA1 apoptosis inducing factor
+T074548,HNRNPUL1,p23@HNRNPUL1,e:11100,h:17011,u:Q9BUJ2,367,0.7615,heterogeneous nuclear ribonucleoprotein U like 1
+T134944,SUMF1,p1@SUMF1,e:285362,h:20376,u:G5E9B0;u:E9PGL0;u:F5GXA0;u:E9PF05;u:F5GXF1;u:Q8NBK3;u:Q0VAC6,369,0.7583,sulfatase modifying factor 1
+T121196,ING5,p1@ING5,e:84289,h:19421,u:Q8WYH8;u:E9PEN0;u:Q53NU6,370,0.7577,inhibitor of growth family member 5
+T151706,NUDCD2,p1@NUDCD2,e:134492,h:30535,u:Q8WVJ2;u:B2R4V0,378,0.7516,NudC domain containing 2
+T098771,SIRPA,p5@SIRPA,e:140885,h:9662,u:B2R6C3;u:P78324,383,0.7493,signal regulatory protein alpha
+T141005,CTSO,p1@CTSO,e:1519,h:2542,u:P43234,385,0.7479,cathepsin O
+T111886,GYPC,p8@GYPC,e:2995,h:4704,,386,0.7461,glycophorin C (Gerbich blood group)
+T095069,TAL1,p6@TAL1,e:6886,h:11556,,389,0.7453,TAL bHLH transcription factor 1; erythroid differentiation factor
+T046802,TBC1D2B,p2@TBC1D2B,e:23102,h:29183,u:Q9UPU7,391,0.7444,TBC1 domain family member 2B
+T021272,TPCN1,p1@TPCN1,e:53373,h:18182,u:F8W0K7,392,0.7439,two pore segment channel 1
+T082350,SCNM1,p1@SCNM1,e:100534012;e:79005,h:23136,,400,0.7394,sodium channel modifier 1
+T106088,SLC19A1,p3@SLC19A1,e:6573,h:10937,u:P41440;u:E9PFY4;u:Q9BTX8,401,0.7394,solute carrier family 19 member 1
+T198487,LAGE3,p1@LAGE3,e:8270,h:26058,u:B0S8I7,404,0.7369,L antigen family member 3
+T094115,INPP5B,p3@INPP5B,e:3633,h:6077,,408,0.7355,inositol polyphosphate-5-phosphatase B
+T198616,ASMTL,p1@ASMTL,e:8623,h:751,u:O95671;u:E7ER97,410,0.7328,acetylserotonin O-methyltransferase-like
+T041966,VRK1,p1@VRK1,e:7443,h:12718,u:Q99986,412,0.7317,vaccinia related kinase 1
+T024243,BHLHE41,p1@BHLHE41,e:79365,h:16617,u:Q8TAT1;u:Q9C0J9,413,0.7316,basic helix-loop-helix family member e41
+T135186,LTF,p2@LTF,e:4057,h:6720,u:B7Z4X2;u:P02788,415,0.7309,lactotransferrin
+T074910,MEGF8,p3@MEGF8,e:1954,h:3233,u:Q7Z7M0,416,0.7308,multiple EGF like domains 8
+T119025,CYP27A1,p4@CYP27A1,e:1593,h:2605,u:Q02318,423,0.7244,cytochrome P450 family 27 subfamily A member 1
+T128683,MGLL,p3@MGLL,e:11343,h:17038,u:Q99685,425,0.724,monoglyceride lipase
+T061257,PRR11,p5@PRR11,e:55771,h:25619,u:D2SNZ4;u:Q96HE9,429,0.7198,proline rich 11
+T128605,RAF1,p2@RAF1,e:5894,h:9829,u:B4E0X2,433,0.7183,Raf-1 proto-oncogene; serine/threonine kinase
+T033068,DGKH,p1@DGKH,e:160851,h:2854,u:B4DYW1;u:Q86XP1;u:B4DZ34,435,0.715,diacylglycerol kinase eta
+T016361,VEGFB,p1@VEGFB,e:7423,h:12681,u:P49765;u:Q7LAP4,446,0.7087,vascular endothelial growth factor B
+T001802,NUDT5,p3@NUDT5,e:11164,h:8052,u:Q9UKK9,449,0.7053,nudix hydrolase 5
+T081067,MAD2L2,p2@MAD2L2,e:10459,h:6764,u:B1AK45,450,0.7045,MAD2 mitotic arrest deficient-like 2 (yeast)
+T169252,PUS7,p2@PUS7,e:54517,h:26033,u:E7EUH7,452,0.7032,pseudouridylate synthase 7 (putative)
+T196708,SLC25A5,p2@SLC25A5,e:292,h:10991,,453,0.7004,solute carrier family 25 member 5
+T105264,WRB,p3@WRB,e:7485,h:12790,u:A8MQ44,462,0.6955,tryptophan rich basic protein
+T058951,NBR1,p1@NBR1,e:4077,h:6746,u:Q14596;u:F8W799;u:B7Z4J4;u:B7Z5R6,465,0.6924,NBR1; autophagy cargo receptor
+T091834,SRSF10,p3@SRSF10,e:100505793;e:10772,h:16713,u:Q5JRI1,466,0.6914,serine and arginine rich splicing factor 10
+T072874,PDCD2L,p1@PDCD2L,e:84306,h:28194,u:Q9BRP1,471,0.6901,programmed cell death 2 like
+T081811,RBM8A,p1@RBM8A,e:9939,h:9905,u:Q9Y5S9,475,0.6875,RNA binding motif protein 8A
+T126229,ITGB1BP1,p3@ITGB1BP1,e:9270,h:23927,u:C9IZZ8,476,0.6874,integrin subunit beta 1 binding protein 1
+T148899,C5orf24,p3@C5orf24,e:134553,h:26746,,484,0.6851,chromosome 5 open reading frame 24
+T074200,FBL,p2@FBL,e:2091,h:3599,u:P22087,485,0.683,fibrillarin
+T000106,CWF19L1,p1@CWF19L1,e:55280,h:25613,,488,0.6805,CWF19-like 1; cell cycle control (S. pombe)
+T182931,INTS10,p2@INTS10,e:55174,h:25548,u:E5RJN5;u:Q9NVR2,491,0.6763,integrator complex subunit 10
+T037872,PSMA6,p1@PSMA6,e:5687,h:9535,u:G3V2S7;u:G3V5Z7;u:G3V3U4;u:G3V3I1;u:B4DQR4,492,0.6746,proteasome subunit alpha 6
+T164776,KIFC1,p1@KIFC1,e:3833,h:6389,u:A2AB20,493,0.6733,kinesin family member C1
+T021001,TCTN1,p1@TCTN1,e:79600,h:26113,u:Q2MV58;u:A8MW34;u:E9PIB8;u:E9PN24;u:E9PNE4;u:E9PJ71;u:E9PR69;u:F8VX18;u:F8VZS6;u:Q05BR9,495,0.6728,tectonic family member 1
+T086039,RCC2,p5@RCC2,e:55920,h:30297,u:Q9P258,501,0.6711,regulator of chromosome condensation 2
+T158334,ASF1A,p2@ASF1A,e:25842,h:20995,,509,0.6662,anti-silencing function 1A histone chaperone
+T037825,SRP54,p2@SRP54,e:6729,h:11301,u:G3V346;u:G3V480,510,0.666,signal recognition particle 54
+T016722,CAPN1,p4@CAPN1,e:823,h:1476,u:B2RDI5;u:P07384,512,0.6645,calpain 1
+T063319,ZBTB4,p1@ZBTB4,e:57659,h:23847,u:B3KVD4;u:Q9P1Z0,513,0.6642,zinc finger and BTB domain containing 4
+T089343,SLC30A1,p3@SLC30A1,e:7779,h:11012,u:Q9Y6M5,519,0.6607,solute carrier family 30 member 1
+T154656,ANKRD55,p4@ANKRD55,e:79722,h:25681,,523,0.6579,ankyrin repeat domain 55
+T172168,GSTK1,p2@GSTK1,e:373156,h:16906,u:Q9Y2Q3;u:E9PFN5;u:Q6FII1,529,0.6528,glutathione S-transferase kappa 1
+T042185,CHSY1,p11@CHSY1,e:22856,h:17198,u:Q86X52,531,0.6521,chondroitin sulfate synthase 1
+T192388,CAAP1,p2@C9orf82,e:79886,h:25834,,533,0.6469,caspase activity and apoptosis inhibitor 1
+T105234,PSMG1,p2@PSMG1,e:8624,h:3043,,537,0.6449,proteasome assembly chaperone 1
+T000456,CUEDC2,p2@CUEDC2,e:79004,h:28352,u:Q9H467,538,0.6446,CUE domain containing 2
+T078346,U2AF2,p1@U2AF2,e:11338,h:23156,u:P26368,541,0.6419,U2 small nuclear RNA auxiliary factor 2
+T175029,HERPUD2,p7@HERPUD2,e:64224,h:21915,u:Q9BSE4,543,0.6396,HERPUD family member 2
+T058857,BECN1,p1@BECN1,e:8678,h:1034,u:Q14457;u:E7EV84;u:B4DS82,545,0.6384,beclin 1
+T195839,RPL36A,p2@RPL36A,e:100529097;e:6173,h:10359,,553,0.6335,ribosomal protein L36a
+T053910,RFWD3,p1@RFWD3,e:55159,h:25539,u:Q6PCD5,558,0.6306,ring finger and WD repeat domain 3
+T170760,NRF1,p2@NRF1,e:4899,h:7996,u:Q16656;u:Q96AN2,562,0.6273,nuclear respiratory factor 1
+T116058,ITGA4,p4@ITGA4,e:3676,h:6140,u:Q7Z4L6,564,0.626,integrin subunit alpha 4
+T136648,RPP14,p2@RPP14,e:11102,h:30327,,565,0.6256,ribonuclease P/MRP subunit p14
+T094800,RPS8,p1@RPS8,e:6202,h:10441,u:Q5JR95;u:P62241;u:Q5JR94,571,0.6246,ribosomal protein S8
+T016323,STIP1,p1@STIP1,e:10963,h:11387,u:F5GXD8;u:F5H0T1,573,0.6237,stress induced phosphoprotein 1
+T135555,NDUFAF3,p2@NDUFAF3,e:25915,h:29918,u:Q9BU61;u:Q9Y3Z0;u:A4FU71,580,0.6165,NADH:ubiquinone oxidoreductase complex assembly factor 3
+T020697,ISCU,p1@ISCU,e:23479,h:29882,u:Q9H1K1;u:B1P7G3;u:B3KQ30;u:B4DNC9;u:F5H672;u:F5H5N2,583,0.6125,iron-sulfur cluster assembly enzyme
+T130775,SLC33A1,p1@SLC33A1,e:9197,h:95,u:O00400,587,0.6098,solute carrier family 33 member 1
+T069423,DNMT1,p1@DNMT1,e:1786,h:2976,u:P26358;u:F5GX68,592,0.6089,DNA methyltransferase 1
+T028257,ZNF384,p3@ZNF384,e:171017,h:11955,u:E9PHB3;u:F5GYZ1;u:F5H420,601,0.5985,zinc finger protein 384
+T189434,NEK6,p4@NEK6,e:10783,h:7749,u:Q9HC98,605,0.5942,NIMA related kinase 6
+T027141,TIMELESS,p1@TIMELESS,e:8914,h:11813,u:Q9UNS1;u:E7EWS5,611,0.5873,timeless circadian clock
+T163896,DDX39B,p1@DDX39B,e:7919,h:13917,u:B4DP52;u:F6SXL5;u:F6S2B7;u:F6R6M7;u:E7EMX2;u:B4DIJ6;u:F6U6E2,615,0.5841,DExD-box helicase 39B
+T160102,PEX3,p1@PEX3,e:8504,h:8858,u:Q7Z6V3,621,0.5811,peroxisomal biogenesis factor 3
+T178093,CYP51A1,p3@CYP51A1,e:1595,h:2649,,624,0.5799,cytochrome P450 family 51 subfamily A member 1
+T028181,IFFO1,p1@IFFO1,e:25900,h:24970,u:Q0D2I5;u:Q6P593;u:B4DQQ1;u:Q9Y4M3,628,0.5768,intermediate filament family orphan 1
+T023101,PUS1,p1@PUS1,e:80324,h:15508,u:F5GY32;u:F5H1S9;u:E5KMT5;u:Q9Y606,629,0.5765,pseudouridylate synthase 1
+T007721,GLUD1,p4@GLUD1,e:2746,h:4335,u:F5GYQ4,632,0.5758,glutamate dehydrogenase 1
+T089256,HHAT,p1@HHAT,e:55733,h:18270,u:Q5VTY9;u:B7Z2U8;u:B7Z5I1;u:F5H444;u:F5H2Y1;u:B7Z868;u:B7Z5N1,637,0.5732,hedgehog acyltransferase
+T122205,YIPF4,p1@YIPF4,e:84272,h:28145,u:Q9BSR8,643,0.5688,Yip1 domain family member 4
+T024245,BHLHE41,p4@BHLHE41,e:79365,h:16617,u:Q8TAT1;u:Q9C0J9,645,0.5681,basic helix-loop-helix family member e41
+T077861,TFPT,p1@TFPT,e:29844,h:13630,u:P0C1Z6,647,0.5667,TCF3 fusion partner
+T150963,GM2A,p3@GM2A,e:2760,h:4367,u:P17900,648,0.566,GM2 ganglioside activator
+T167636,EEF1A1,p3@EEF1A1,e:1915,h:3189,u:P68104;u:Q6IPS9;u:A6PW80,650,0.5637,eukaryotic translation elongation factor 1 alpha 1
+T159350,HBS1L,p2@HBS1L,e:10767,h:4834,u:E9PJ90,654,0.5604,HBS1 like translational GTPase
+T059214,ITGA2B,p1@ITGA2B,e:3674,h:6138,u:P08514,660,0.5548,integrin subunit alpha 2b
+T050693,TMEM219,p1@TMEM219,e:124446,h:25201,u:Q86XT9;u:D5FK14,663,0.5538,transmembrane protein 219
+T178821,BUD31,p2@BUD31,e:8896,h:29629,u:F8WCN7,664,0.5533,BUD31 homolog
+T183216,PPP3CC,p5@PPP3CC,e:5533,h:9316,,665,0.5528,protein phosphatase 3 catalytic subunit gamma
+T015936,MTA2,p2@MTA2,e:9219,h:7411,u:O94776,666,0.5526,metastasis associated 1 family member 2
+T093757,TMEM35B,p1@ZMYM6NB,e:100506144,h:40021,u:Q8NCS4,673,0.5445,transmembrane protein 35B
+T098885,RIN2,p2@RIN2,e:54453,h:18750,u:Q8WYP3,676,0.5422,Ras and Rab interactor 2
+T022375,ARL6IP4,p2@ARL6IP4,e:51329,h:18076,u:F5GYV5,678,0.5406,ADP ribosylation factor like GTPase 6 interacting protein 4
+T038675,ERO1A,p4@ERO1L,e:30001,h:13280,u:G3V5B3;u:G3V503,679,0.5397,endoplasmic reticulum oxidoreductase 1 alpha
+T164754,TAPBP,p6@TAPBP,e:6892,h:11566,,680,0.5383,TAP binding protein
+T102535,PFDN4,p3@PFDN4,e:5203,h:8868,u:Q9NQP4,685,0.5349,prefoldin subunit 4
+T056183,ALDH3A2,p1@ALDH3A2,e:224,h:403,u:P51648;u:Q6I9T3,690,0.5301,aldehyde dehydrogenase 3 family member A2
+T126067,RPIA,p5@RPIA,e:22934,h:10297,u:P49247,692,0.5286,ribose 5-phosphate isomerase A
+T033211,TSC22D1,p4@TSC22D1,e:8848,h:16826,,695,0.5269,TSC22 domain family member 1
+T022816,CREBL2,p1@CREBL2,e:1389,h:2350,u:O60519,697,0.5257,cAMP responsive element binding protein like 2
+T134710,TRAK1,p4@TRAK1,e:22906,h:29947,u:B7Z3G5,698,0.5254,trafficking kinesin protein 1
+T089398,NENF,p2@NENF,e:29937,h:30384,u:Q9UMX5,704,0.5219,neudesin neurotrophic factor
+T133710,SGO1,p3@SGOL1,e:151648,h:25088,u:B5BUA4;u:Q5FBB7,710,0.5182,shugoshin 1
+T111019,TMEM87B,p1@TMEM87B,e:84910,h:25913,u:Q96K49,716,0.5159,transmembrane protein 87B
+T165004,TAF11,p2@TAF11,e:6882,h:11544,u:B4DY18;u:Q15544,719,0.5142,TATA-box binding protein associated factor 11
+T185247,RGS20,p1@RGS20,e:8601,h:14600,,726,0.5085,regulator of G-protein signaling 20
+T034242,TBC1D4,p17@TBC1D4,e:9882,h:19165,,729,0.5045,TBC1 domain family member 4
+T189297,RBM18,p3@RBM18,e:92400,h:28413,,730,0.5042,RNA binding motif protein 18
+T064525,EIF4A3,p1@EIF4A3,e:9775,h:18683,u:P38919,731,0.5042,eukaryotic translation initiation factor 4A3
+T074528,HNRNPUL1,p5@HNRNPUL1,e:11100,h:17011,u:E9PE99,740,0.4993,heterogeneous nuclear ribonucleoprotein U like 1
+T043052,SPRED1,p1@SPRED1,e:161742,h:20249,u:Q7Z699,744,0.4965,sprouty related EVH1 domain containing 1
+T199607,DDX3X,p2@DDX3X,e:1654,h:2745,u:B4DLA0;u:B4E3E8,746,0.4943,DEAD-box helicase 3; X-linked
+T000094,ERLIN1,p2@ERLIN1,e:10613,h:16947,u:D3DR65;u:O75477,751,0.4863,ER lipid raft associated 1
+T001939,PLEKHA1,p4@PLEKHA1,e:59338,h:14335,,759,0.4801,pleckstrin homology domain containing A1
+T189532,RPL35,p4@RPL35,e:11224,h:10344,u:F2Z388,762,0.4791,ribosomal protein L35
+T092842,NUDC,p1@NUDC,e:10726,h:8045,u:Q9Y266,763,0.4786,nuclear distribution C; dynein complex regulator
+T001812,WDR11,p4@WDR11,e:55717,h:13831,u:Q9BZH6,765,0.4741,WD repeat domain 11
+T006742,ECD,p1@ECD,e:11319,h:17029,u:O95905,766,0.4734,ecdysoneless cell cycle regulator
+T013131,CD81,p27@CD81,e:975,h:1701,,771,0.4674,CD81 molecule
+T117589,PUM2,p9@PUM2,e:23369,h:14958,u:C9JE24,781,0.4617,pumilio RNA binding family member 2
+T031631,GRTP1,p1@GRTP1,e:79774,h:20310,u:B9A6K2;u:Q5TC63,783,0.4599,growth hormone regulated TBC protein 1
+T088173,ATP2B4,p2@ATP2B4,e:493,h:817,u:P23634;u:B1APW5,784,0.4591,ATPase plasma membrane Ca2+ transporting 4
+T023533,EPS8,p1@EPS8,e:2059,h:3420,u:F5H2B8;u:F5H1B5,789,0.4579,epidermal growth factor receptor pathway substrate 8
+T059040,DUSP3,p1@DUSP3,e:1845,h:3069,u:Q8IYJ9,795,0.4554,dual specificity phosphatase 3
+T173908,NUDT1,p1@NUDT1,e:4521,h:8048,u:P36639;u:Q7Z7N6,798,0.4534,nudix hydrolase 1
+T134106,STT3B,p1@STT3B,e:201595,h:30611,,801,0.4509,STT3B; catalytic subunit of the oligosaccharyltransferase complex
+T056062,TOP3A,p1@TOP3A,e:7156,h:11992,u:Q13472,808,0.4485,topoisomerase (DNA) III alpha
+T083778,HDGF,p3@HDGF,e:3068,h:4856,u:P51858,811,0.4475,hepatoma-derived growth factor
+T008481,ALDH18A1,p2@ALDH18A1,e:5832,h:9722,u:P54886,815,0.4455,aldehyde dehydrogenase 18 family member A1
+T156570,BRD9,p4@BRD9,e:65980,h:25818,u:F2Z2E8,826,0.4389,bromodomain containing 9
+T168758,SRRT,p6@SRRT,e:51593,h:24101,u:Q9BXP5,861,0.4125,serrate; RNA effector molecule
+T182932,INTS10,p1@INTS10,e:55174,h:25548,u:E5RHN1,776,0.4654,integrator complex subunit 10
+T142401,CENPU,p1@MLF1IP,e:79682,h:21348,u:Q09GN2,804,0.4502,centromere protein U
+T174478,HIBADH,p2@HIBADH,e:11112,h:4907,,818,0.4442,3-hydroxyisobutyrate dehydrogenase
+T076126,DHX34,p1@DHX34,e:9704,h:16719,,672,0.5445,DExH-box helicase 34
+T055881,MPRIP,p4@MPRIP,e:23164,h:30321,u:A8MZF8;u:Q6WCQ1;u:Q8N236,800,0.451,myosin phosphatase Rho interacting protein
+T071787,ARMC6,p3@ARMC6,e:93436,h:25049,u:F5H3Y9,810,0.4479,armadillo repeat containing 6
+T133490,RNF168,p2@RNF168,e:165918,h:26661,u:F8WD60,786,0.4589,ring finger protein 168
+T052942,CES2,p1@CES2,e:8824,h:1864,u:O00748,863,0.4113,carboxylesterase 2
+T004343,NRP1,p5@NRP1,e:8829,h:8004,u:E7EX60;u:Q5T7F1,797,0.4547,neuropilin 1
+T163611,DHX16,p1@DHX16,e:8449,h:2739,u:A2AB15,860,0.413,DEAH-box helicase 16
+T136043,PARP3,p1@PARP3,e:10039,h:273,u:Q9Y6F1;u:F8WAY7,847,0.4224,poly(ADP-ribose) polymerase family member 3
+T083587,CCT3,p3@CCT3,e:7203,h:1616,,874,0.4032,chaperonin containing TCP1 subunit 3
+T023206,POLE,p1@POLE,e:5426,h:9177,u:Q07864;u:E7ENR1;u:F5H1D6;u:F5H7E4;u:Q59EA9,792,0.4572,DNA polymerase epsilon; catalytic subunit
+T021830,CIT,p3@CIT,e:11113,h:1985,u:O14578;u:Q2M5E1,867,0.4097,citron rho-interacting serine/threonine kinase
+T018656,TSKU,p3@TSKU,e:25987,h:28850,u:Q8WUA8;u:B3KRF9,848,0.4222,tsukushi; small leucine rich proteoglycan
+T078505,ZNF264,p2@ZNF264,e:9422,h:13057,u:O43296,822,0.4415,zinc finger protein 264
+T008662,FRAT2,p1@FRAT2,e:23401,h:16048,u:O75474,750,0.4893,FRAT2; WNT signaling pathway regulator
+T030278,A2M,p2@A2M,e:2,h:7,u:P01023,859,0.4135,alpha-2-macroglobulin
+T072526,PLEKHF1,p2@PLEKHF1,e:79156,h:20764,,769,0.4684,pleckstrin homology and FYVE domain containing 1
+T200604,SPIN4,p2@SPIN4,e:139886,h:27040,,773,0.4669,spindlin family member 4
+T119423,ACSL3,p1@ACSL3,e:2181,h:3570,u:F5H062;u:B3KMA6;u:O95573,777,0.4646,acyl-CoA synthetase long-chain family member 3
+T051180,FUS,p2@FUS,e:2521,h:4010,,753,0.4843,FUS RNA binding protein
+T184623,ADAM9,p1@ADAM9,e:8754,h:216,u:C9J6H5;u:Q13443,862,0.412,ADAM metallopeptidase domain 9
+T002555,BNIP3,p2@BNIP3,e:664,h:1084,u:Q12983,853,0.4185,BCL2 interacting protein 3
+T028618,CCT2,p12@CCT2,e:10576,h:1615,u:P78371,782,0.4613,chaperonin containing TCP1 subunit 2
+T076053,SAE1,p2@SAE1,e:10055,h:30660,u:B3KNJ4,456,0.6983,SUMO1 activating enzyme subunit 1
+T063495,TNFSF12,p2@TNFSF12-TNFSF13;p2@TNFSF12,e:407977;e:8742,h:11927;h:33537,u:Q8IZK7,855,0.417,tumor necrosis factor superfamily member 12
+T068317,KDSR,p1@KDSR,e:2531,h:4021,u:B4DMX0,667,0.5494,3-ketodihydrosphingosine reductase
