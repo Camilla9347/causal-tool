@@ -15,7 +15,7 @@ Pick a _Vitis vinifera_ or a _Homo Sapiens_ gene and find its OneGenE expansion 
 
 ### Vitis vinifera
 
-To check if your Vitis vinifera (Vv) gene has been already expanded, go to [VvOneGenE](http://ibdm.disi.unitn.it/onegene/v1/onegene-vv.php) and under **Gene name(s)** type the _Ordered Locus Name_ (_VIT_XXsYYYYgZZZZZ_) or _gene name_  of your Vv gene. You can also type multiple names (space separated) and get multiple expansion lists as a result.
+To check if your Vitis vinifera (Vv) gene has been already expanded, go to [VvOneGenE](http://ibdm.disi.unitn.it/onegene/v1/onegene-vv.php) -- which can be reached also from the Download page of [OneGenE Causality Weaver](https://onegene-causality-weaver.disi.unitn.it/vitis/downloads/) -- and under **Gene name(s)** type the _Ordered Locus Name_ (_VIT_XXsYYYYgZZZZZ_) or _gene name_  of your Vv gene. You can also type multiple names (space separated) and get multiple expansion lists as a result.
 For example: 
 1. Type VIT_04s0008g06000 in the **gene name(s)** box; this name corresponds to the transcription factor VvERF045. 
 2. You are then redirected to the output page where you can **check** the expansion list of VIT_04s0008g06000 and press the **download** button. 
@@ -25,7 +25,7 @@ For example:
 
 ### Homo sapiens
 
-To check if your human gene has been already expanded, go to [HsOneGenE](http://ibdm.disi.unitn.it/onegene/fantom/onegene-fantom.php) and under **Gene name(s)** type the _gene name_ or _symbol_ of your Hs gene. You can also type multiple names (space separated) and get multiple expansion lists as a result.
+To check if your human gene has been already expanded, go to [HsOneGenE](http://ibdm.disi.unitn.it/onegene/fantom/onegene-fantom.php) -- which can be reached also from the Download page of [OneGenE Causality Weaver](https://onegene-causality-weaver.disi.unitn.it/human/downloads/) -- and under **Gene name(s)** type the _gene name_ or _symbol_ of your Hs gene. You can also type multiple names (space separated) and get multiple expansion lists as a result.
 For example:
 1. Type U2AF1 in the **gene name(s)** box;
 2. You are then redirected to the output page where you can **check** the expansion list of the chosen isoform of U2AF1, such as p1@U2AF1 and press the **download** button.
